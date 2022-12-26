@@ -8,7 +8,7 @@
   <img align="center" alt="Bryan Li | LinkedIn" width="21px" src="https://raw.githubusercontent.com/Zy8712/Zy8712/master/assets/LinkedIn_logo_initials.png" />
 </a>
 <a href="https://github.com/Zy8712">
-  <img align="center" alt="Bryan Li | GitHub" width="21px" src="https://raw.githubusercontent.com/Zy8712/Zy8712/master/assets/github_logo.png" />
+  <img align="center" alt="Bryan Li | GitHub" width="21px" src="https://raw.githubusercontent.com/Zy8712/Zy8712/master/assets/GitHub-Mark_cropped.jpg" />
 </a>
 <a href="https://leetcode.com/Zy8712/">
   <img align="center" alt="Bryan Li | LeetCode" width="21px" src="https://raw.githubusercontent.com/Zy8712/Zy8712/master/assets/LeetCode_logo_black.png" />
