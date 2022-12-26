@@ -5,8 +5,8 @@
     
 <p align="center">
 <br>
-My Github Stats
-
+<h6>My Github Stats</h6>
+    
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zy8712&theme=tokyonight) 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zy8712&theme=tokyonight) 
