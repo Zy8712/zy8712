@@ -5,13 +5,13 @@
 <br>
 <p align="center">
 <a href="https://www.linkedin.com/in/bryan-li-a15437250/">
-  <img align="center" alt="Bryan Li | LinkedIn" width="50px" src="https://raw.githubusercontent.com/Zy8712/Zy8712/master/assets/LinkedIn_logo_initials.png" />
+  <img align="center" alt="Bryan Li | LinkedIn" width="36px" src="https://raw.githubusercontent.com/Zy8712/Zy8712/master/assets/LinkedIn_logo_initials.png" />
 </a>
 <a href="https://github.com/Zy8712">
-  <img align="center" alt="Bryan Li | GitHub" width="50px" src="https://raw.githubusercontent.com/Zy8712/Zy8712/master/assets/GitHub-Mark_cropped.jpg" />
+  <img align="center" alt="Bryan Li | GitHub" width="36px" src="https://raw.githubusercontent.com/Zy8712/Zy8712/master/assets/GitHub-Mark_cropped.jpg" />
 </a>
 <a href="https://leetcode.com/Zy8712/">
-  <img align="center" alt="Bryan Li | LeetCode" width="50px" src="https://raw.githubusercontent.com/Zy8712/Zy8712/master/assets/LeetCode_logo_black.png" />
+  <img align="center" alt="Bryan Li | LeetCode" width="36px" src="https://raw.githubusercontent.com/Zy8712/Zy8712/master/assets/LeetCode_logo_black.png" border-radius= "25px" />
 </a>
 </p>
     
