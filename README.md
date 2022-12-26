@@ -26,7 +26,6 @@
 <hr>
 
 <h5 align="center"> ======== EXTRA GITHUB STATS ======== </h5>
-<br>
 <div align="center"; style="display: flex; flex-direction: row;">
  <img class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zy8712&theme=tokyonight" />
 
@@ -36,7 +35,6 @@
 
 <hr>
 <h5 align="center"> ======== EXTRA LEETCODE STATS ======== </h5>
-<br>
 <p align="center">
  <a href="https://leetcode.com/Zy8712/" target="_blank">
     <img title="Zy8712's LeetCode Stats" alt="Zy8712's LeetCode Stats" src="https://leetcard.jacoblin.cool/Zy8712?theme=unicorn&font=Paprika&ext=activity" />
