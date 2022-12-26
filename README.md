@@ -33,3 +33,12 @@
  <img class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zy8712&theme=tokyonight" />
  <img class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zy8712&theme=tokyonight" />
 </div>
+
+<hr>
+<h5 align="center"> ======== EXTRA LEETCODE STATS ======== </h5>
+<br>
+<p align="center">
+ <a href="https://leetcode.com/Zy8712/" target="_blank">
+    <img title="Zy8712's LeetCode Stats" alt="Zy8712's LeetCode Stats" src="https://leetcard.jacoblin.cool/Zy8712?theme=wtf&font=Purple%20Purse&ext=activity" />
+  </a>
+</p>
