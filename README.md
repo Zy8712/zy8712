@@ -11,13 +11,10 @@
   <img align="center" alt="Bryan Li | GitHub" width="36px" src="https://raw.githubusercontent.com/Zy8712/Zy8712/master/assets/GitHub-Mark_cropped.jpg" />
 </a>
 <a href="https://leetcode.com/Zy8712/">
-  <img align="center" alt="Bryan Li | LeetCode" width="36px" src="https://raw.githubusercontent.com/Zy8712/Zy8712/master/assets/LeetCode_logo_black.png" border-radius= "25px" />
+  <img align="center" alt="Bryan Li | LeetCode" width="36px" src="https://raw.githubusercontent.com/Zy8712/Zy8712/master/assets/LeetCode_logo_black.png" />
 </a>
 </p>
     
-
-
-<br>
 <hr>
 
 <h5 align="center"> ======== EXTRA GITHUB STATS ======== </h5>
