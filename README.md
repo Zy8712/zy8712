@@ -8,7 +8,7 @@
 <br>
 My Github Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zy8712&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zy8712&theme=radical) 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zy8712&theme=dracula) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zy8712&theme=dracula)
