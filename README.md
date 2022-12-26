@@ -39,6 +39,6 @@
 <br>
 <p align="center">
  <a href="https://leetcode.com/Zy8712/" target="_blank">
-    <img title="Zy8712's LeetCode Stats" alt="Zy8712's LeetCode Stats" src="https://leetcard.jacoblin.cool/Zy8712?theme=wtf&font=Purple%20Purse&ext=activity" />
+    <img title="Zy8712's LeetCode Stats" alt="Zy8712's LeetCode Stats" src="https://leetcard.jacoblin.cool/Zy8712?theme=unicorn&font=Paprika&ext=activity" />
   </a>
 </p>
