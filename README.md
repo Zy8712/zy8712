@@ -28,6 +28,10 @@
 <hr>
 
 <h5 align="center"> ======== EXTRA GITHUB STATS ======== </h5>
+<!--<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zy8712&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zy8712&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</div>-->
 <div align="center"; style="display: flex; flex-direction: row;">
  <img class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zy8712&theme=tokyonight" />
 
