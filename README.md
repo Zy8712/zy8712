@@ -62,29 +62,32 @@
 [![macOS](https://img.shields.io/badge/macOS-000000?logo=macos&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
 
 
-
 <hr>
 
-<h5 align="center"> ======== EXTRA GITHUB STATS ======== </h5>
-<!--<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zy8712&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&env=PAT_1" /> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zy8712&show_icons=true&hide_border=true&layout=compact&langs_count=8&env=PAT_1"/>
-</div>-->
-<div align="center"; style="display: flex; flex-direction: row;">
- <img class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zy8712&theme=tokyonight" />
-
- <img class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zy8712&theme=tokyonight" />
- <img class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zy8712&theme=tokyonight" />
-</div>
-
-<hr>
-<h5 align="center"> ======== EXTRA LEETCODE STATS ======== </h5>
 <p align="center">
  <a href="https://leetcode.com/Zy8712/" target="_blank">
     <img title="Zy8712's LeetCode Stats" alt="Zy8712's LeetCode Stats" src="https://leetcard.jacoblin.cool/Zy8712?theme=unicorn&font=Paprika&ext=activity" />
   </a>
   <br>
- <a href="https://leetcode.com/Zy8712/" target="_blank">
-   <img title="Zy8712's LeetCode Stats" alt="Zy8712's LeetCode Stats" src="https://leetcode-stats-six.vercel.app/?username=Zy8712&theme=dark">
-  </a>
 </p>
+
+<details>
+  <summary>Extra GitHub Stats</summary>
+<div align="center"; style="display: flex; flex-direction: row;">
+  <img class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zy8712&theme=tokyonight" />
+
+  <img class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zy8712&theme=tokyonight" />
+  <img class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zy8712&theme=tokyonight" />
+  <br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zy8712&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&env=PAT_1&theme=dark" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zy8712&show_icons=true&hide_border=true&layout=compact&langs_count=8&env=PAT_1&theme=dark"/>
+</div>
+</details>
+<details>
+  <summary>Extra LeetCode Stats</summary>
+  <p align="center">
+    <a href="https://leetcode.com/Zy8712/" target="_blank">
+    <img title="Zy8712's LeetCode Stats" alt="Zy8712's LeetCode Stats" src="https://leetcode-stats-six.vercel.app/?username=Zy8712&theme=dark">
+    </a>
+  </p>
+</details>
