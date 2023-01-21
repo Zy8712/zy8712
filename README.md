@@ -17,13 +17,13 @@
 </p>
 <p align="center">
 <img align="center" class="img" src="https://komarev.com/ghpvc/?username=Bz8712&color=brightgreen&label=Profile+Visits" />
-<a href="https://www.linkedin.com/in/bryan-li-a15437250/">
+<a href="https://www.linkedin.com/in/bryan-li-a15437250/" target="__blank">
     <img align="center" alt="Bryan Li | LinkedIn" src="https://img.shields.io/badge/LinkedIn-Bryan_Li-0072b1?style=flat&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/Zy8712">
+<a href="https://github.com/Zy8712" target="_blank">
   <img align="center" alt="Bryan Li | GitHub" src="https://img.shields.io/badge/GitHub-Zy8712-181717?style=flat&logo=github&logoColor=white" />
 </a>
-<a href="https://leetcode.com/Zy8712/">
+<a href="https://leetcode.com/Zy8712/" target="_blank">
   <img align="center" alt="Bryan Li | LeetCode" src="https://img.shields.io/badge/LeetCode-Zy8712-FFA116?style=flat&logo=leetcode&logoColor=white" />
 </a>
 </p>
