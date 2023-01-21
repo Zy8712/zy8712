@@ -16,17 +16,18 @@
    <img src="https://github-stats-alpha.vercel.app/api?username=Zy8712&cc=1a1b27&tc=70a5fd&ic=bf91f3&bc=1a1b27&count_private=true">
 </p>
 <p align="center">
-<img align="center" class="img" src="https://komarev.com/ghpvc/?username=Bz8712&color=brightgreen&label=Profile+Views" />
+<img align="center" class="img" src="https://komarev.com/ghpvc/?username=Bz8712&color=brightgreen&label=Profile+Visits" />
 <a href="https://www.linkedin.com/in/bryan-li-a15437250/">
-  <img align="center" alt="Bryan Li | LinkedIn" width="36px" src="https://raw.githubusercontent.com/Zy8712/Zy8712/master/assets/LinkedIn_logo_initials.png" />
+    <img align="center" alt="Bryan Li | LinkedIn" src="https://img.shields.io/badge/LinkedIn-Bryan_Li-0072b1?style=flat&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/Zy8712">
-  <img align="center" alt="Bryan Li | GitHub" width="36px" src="https://raw.githubusercontent.com/Zy8712/Zy8712/master/assets/GitHub-Mark_cropped.jpg" />
+  <img align="center" alt="Bryan Li | GitHub" src="https://img.shields.io/badge/GitHub-Zy8712-181717?style=flat&logo=github&logoColor=white" />
 </a>
 <a href="https://leetcode.com/Zy8712/">
-  <img align="center" alt="Bryan Li | LeetCode" width="36px" src="https://raw.githubusercontent.com/Zy8712/Zy8712/master/assets/LeetCode_logo_black.png" />
+  <img align="center" alt="Bryan Li | LeetCode" src="https://img.shields.io/badge/LeetCode-Zy8712-FFA116?style=flat&logo=leetcode&logoColor=white" />
 </a>
 </p>
+<br>
 
 ### 👨🏼‍💻 Languages and Frameworks
 [![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)](https://www.java.com/)
