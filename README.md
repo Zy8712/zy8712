@@ -26,8 +26,10 @@
 <a href="https://leetcode.com/Zy8712/" target="_blank">
   <img align="center" alt="Bryan Li | LeetCode" src="https://img.shields.io/badge/LeetCode-Zy8712-FFA116?style=flat&logo=leetcode&logoColor=white" />
 </a>
+<a href="https://www.codechef.com/users/zy8712" target="_blank">
+  <img align="center" alt="Bryan Li | CodeChef" src="https://img.shields.io/badge/CodeChef-zy8712-5B4638?style=flat&logo=codechef&logoColor=white" />
+</a>
 </p>
-<br>
 
 ### 👨🏼‍💻 Languages and Frameworks
 [![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)](https://www.java.com/)
@@ -42,7 +44,7 @@
 [![Assembly](https://img.shields.io/badge/Assembly-6E4C13?logo=assembly&logoColor=white)](https://en.wikipedia.org/wiki/Assembly_language)
 [![Verilog](https://img.shields.io/badge/Verilog-00008B?logo=verilog&logoColor=green)](https://en.wikipedia.org/wiki/Verilog)
 
-### 🛠 Tools, Services and Platforms
+### 🛠 Favourite Tools, Services and Platforms
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse-ide&logoColor=white)](https://www.eclipse.org/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/)
@@ -52,7 +54,11 @@
 [![Figma](https://img.shields.io/badge/Figma-A259FF?logo=figma&logoColor=white)](https://figma.com)
 [![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)](https://slack.com/)
 [![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white)](https://www.codechef.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
+[![Indeed](https://img.shields.io/badge/Indeed-003A9B?logo=indeed&logoColor=white)](https://indeed.com/)
+[![Glassdoor](https://img.shields.io/badge/Glassdoor-0CAA41?logo=glassdoor&logoColor=white)](https://www.glassdoor.ca/index.htm)
 [![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?logo=github-pages&logoColor=white)](https://pages.github.com/)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](https://github.com/features/actions)
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)](https://about.gitlab.com/)
