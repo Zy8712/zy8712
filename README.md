@@ -75,14 +75,14 @@
 ### 📚 Currently Learning
 [![React JS](https://img.shields.io/badge/React_JS-61DAFB?logo=react&logoColor=white)](https://reactjs.org/)
 [![Node JS](https://img.shields.io/badge/Node_JS-339933?logo=node.js&logoColor=white)](https://nodejs.org/en/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=.net&logoColor=white)](https://dotnet.microsoft.com/en-us/)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)](https://www.php.net/)
 [![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apache-kafka&logoColor=white)](https://kafka.apache.org/)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)](https://flutter.dev/)
 
 
-<hr>
-
+<br>
 <p align="center">
  <a href="https://leetcode.com/Zy8712/" target="_blank">
     <img title="Zy8712's LeetCode Stats" alt="Zy8712's LeetCode Stats" src="https://leetcard.jacoblin.cool/Zy8712?theme=unicorn&font=Paprika&ext=activity" />
@@ -91,19 +91,20 @@
 </p>
 
 <details>
-  <summary>Extra GitHub Stats</summary>
-<div align="center"; style="display: flex; flex-direction: row;">
-  <img class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zy8712&theme=tokyonight" />
-
-  <img class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zy8712&theme=tokyonight" />
-  <img class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zy8712&theme=tokyonight" />
+  <summary> Extra GitHub Stats</summary>
   <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zy8712&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&env=PAT_1&theme=dark" /> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zy8712&show_icons=true&hide_border=true&layout=compact&langs_count=8&env=PAT_1&theme=dark"/>
-</div>
+  <div align="center"; style="display: flex; flex-direction: row;">
+    <img class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zy8712&theme=tokyonight" />
+    <img class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zy8712&theme=tokyonight" />
+    <img class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zy8712&theme=tokyonight" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zy8712&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&env=PAT_1&theme=dark" /> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zy8712&show_icons=true&hide_border=true&layout=compact&langs_count=8&env=PAT_1&theme=dark"/>
+  </div>
 </details>
+
 <details>
-  <summary>Extra LeetCode Stats</summary>
+  <summary> Extra LeetCode Stats</summary>
+  <br>
   <p align="center">
     <a href="https://leetcode.com/Zy8712/" target="_blank">
     <img title="Zy8712's LeetCode Stats" alt="Zy8712's LeetCode Stats" src="https://leetcode-stats-six.vercel.app/?username=Zy8712&theme=dark">
