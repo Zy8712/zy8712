@@ -41,6 +41,7 @@
 [![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B) 
 [![Fortran](https://img.shields.io/badge/Fortran-white?logo=fortran&logoColor=734f96)](https://fortran-lang.org/)
 [![MatLab](https://img.shields.io/badge/MatLab-8B4000?logo=assembly&logoColor=white)](https://www.mathworks.com/products/matlab.html)
+[![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)](https://en.wikipedia.org/wiki/Markdown)
 [![Assembly](https://img.shields.io/badge/Assembly-6E4C13?logo=assembly&logoColor=white)](https://en.wikipedia.org/wiki/Assembly_language)
 [![Verilog](https://img.shields.io/badge/Verilog-00008B?logo=verilog&logoColor=green)](https://en.wikipedia.org/wiki/Verilog)
 
