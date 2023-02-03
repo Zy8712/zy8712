@@ -115,3 +115,17 @@
     </a>
   </p>
 </details>
+
+<details>
+  <summary> Ongoing Projects</summary>
+  <br>
+  <table>
+    <tr><td>Project Name</td><td>Programming Languages</td><td>GitHub Repository</td><td>Start Date</td><td>End Date</td></tr>
+    <tr><td>Personal Portfolio Website</td><td>HTML, CSS, Javascript</td><td><a href="https://github.com/Zy8712/zy8712.github.io"> Link </a></td><td>December 25th 2022</td><td>N/A</td></tr>
+    <tr><td>Kaggle Competition - Titanic - Machine Learning from Disaster</td><td>Python</td><td><a href="https://github.com/Zy8712/Kaggle-Competition-Titanic---Machine-Learning-from-Disaster"> Link </a></td><td>December 25th 2022</td><td>N/A</td></tr>
+    <tr><td>Hunt The Ace</td><td>HTML, CSS, Javascript</td><td><a href="https://github.com/Zy8712/HuntTheAceJSGame"> Link </a></td><td>Start Date</td><td>N/A</td></tr>
+    <tr><td>Snake Game</td><td>Java</td><td><a href="https://github.com/Zy8712/SnakeGame"> Link </a></td><td>Start Date</td><td>N/A</td></tr>
+    <tr><td>Pong Game</td><td>Java</td><td><a href="https://github.com/Zy8712/PongGame"> Link </a></td><td>Start Date</td><td>N/A</td></tr>
+    <tr><td>Tweet Extractor w/OpenAI Implementation</td><td>Python</td><td>Temporarily Privated</td><td>January 28th, 2023</td><td>January 29th, 2023</td></tr>
+  </table>
+</details>
