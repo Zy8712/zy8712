@@ -95,7 +95,7 @@
 </p>
 
 <details>
-  <summary> Extra GitHub Stats</summary>
+  <summary> 📊 Extra GitHub Stats</summary>
   <br>
   <div align="center"; style="display: flex; flex-direction: row;">
     <img class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zy8712&theme=tokyonight" />
@@ -107,7 +107,7 @@
 </details>
 
 <details>
-  <summary> Extra LeetCode Stats</summary>
+  <summary> 📈 Extra LeetCode Stats</summary>
   <br>
   <p align="center">
     <a href="https://leetcode.com/Zy8712/" target="_blank">
@@ -117,7 +117,7 @@
 </details>
 
 <details>
-  <summary> Ongoing / Recently Completed Projects</summary>
+  <summary> ⚙️ Ongoing / Recently Completed Projects</summary>
   <br>
   <table>
     <tr><td>Project Name</td><td>Programming Languages</td><td>GitHub Repository</td><td>Start Date</td><td>End Date</td></tr>
