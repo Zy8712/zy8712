@@ -117,7 +117,7 @@
 </details>
 
 <details>
-  <summary> Ongoing Projects</summary>
+  <summary> Ongoing / Recently Completed Projects</summary>
   <br>
   <table>
     <tr><td>Project Name</td><td>Programming Languages</td><td>GitHub Repository</td><td>Start Date</td><td>End Date</td></tr>
