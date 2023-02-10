@@ -73,7 +73,7 @@
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://www.linux.org/)
 [![macOS](https://img.shields.io/badge/macOS-000000?logo=macos&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
 
-### 📚 Currently Learning / PLanning to Learn
+### 📚 Currently Learning / Planning to Learn
 [![React JS](https://img.shields.io/badge/React_JS-61DAFB?logo=react&logoColor=white)](https://reactjs.org/)
 [![Node JS](https://img.shields.io/badge/Node_JS-339933?logo=node.js&logoColor=white)](https://nodejs.org/en/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
