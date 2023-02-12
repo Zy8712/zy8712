@@ -99,11 +99,17 @@
   <summary> 📊 Extra GitHub Stats</summary>
   <br>
   <div align="center"; style="display: flex; flex-direction: row;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=zy8712&theme=tokyonight" alt="mystreak"/>
     <img class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zy8712&theme=tokyonight" />
     <img class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zy8712&theme=tokyonight" />
     <img class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zy8712&theme=tokyonight" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zy8712&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&env=PAT_1&theme=dark" /> 
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zy8712&show_icons=true&hide_border=true&layout=compact&langs_count=8&env=PAT_1&theme=dark"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+      <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+      <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+    </picture>
   </div>
 </details>
 
@@ -112,7 +118,8 @@
   <br>
   <p align="center">
     <a href="https://leetcode.com/Zy8712/" target="_blank">
-    <img title="Zy8712's LeetCode Stats" alt="Zy8712's LeetCode Stats" src="https://leetcode-stats-six.vercel.app/?username=Zy8712&theme=dark">
+      <img title="Zy8712's LeetCode Stats" alt="Zy8712's LeetCode Stats" src="https://leetcode-stats-six.vercel.app/?username=Zy8712&theme=dark">
+      <img src="https://leetcode-badge.haozibi.dev/v1cn/chart/submission-calendar/zy8712.svg?type=past-year">
     </a>
   </p>
 </details>
