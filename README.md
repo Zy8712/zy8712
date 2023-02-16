@@ -100,7 +100,7 @@
   <br>
   <div align="center"; style="display: flex; flex-direction: row;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=zy8712&theme=tokyonight" alt="mystreak"/>
-    <img class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zy8712&theme=tokyonight" />
+    <img class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zy8712&theme=tokyonight" alt="github_profile_stats" />
     <img class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zy8712&theme=tokyonight" />
     <img class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zy8712&theme=tokyonight" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zy8712&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&env=PAT_1&theme=dark" /> 
