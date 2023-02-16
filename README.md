@@ -119,7 +119,6 @@
   <p align="center">
     <a href="https://leetcode.com/Zy8712/" target="_blank">
       <img title="Zy8712's LeetCode Stats" alt="Zy8712's LeetCode Stats" src="https://leetcode-stats-six.vercel.app/?username=Zy8712&theme=dark">
-      <img src="https://leetcode-badge.haozibi.dev/v1cn/chart/submission-calendar/zy8712.svg?type=past-year">
     </a>
   </p>
 </details>
