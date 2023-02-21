@@ -134,5 +134,6 @@
     <tr><td>Snake Game</td><td>Java</td><td><a href="https://github.com/Zy8712/SnakeGame"> Link </a></td><td>Start Date</td><td>N/A</td></tr>
     <tr><td>Pong Game</td><td>Java</td><td><a href="https://github.com/Zy8712/PongGame"> Link </a></td><td>Start Date</td><td>N/A</td></tr>
     <tr><td>Tweet Extractor w/OpenAI Implementation</td><td>Python</td><td>Temporarily Privated</td><td>January 28th, 2023</td><td>January 29th, 2023</td></tr>
+    <tr><td>Planet Blaster Minigame</td><td>Javascript, HTML, CSS</td><td><a href="https://github.com/Zy8712/PlanetBlaster"> Link </a></td><td>February 19th, 2023</td><td>N/A</td></tr>
   </table>
 </details>
