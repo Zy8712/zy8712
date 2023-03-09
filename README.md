@@ -44,6 +44,7 @@
 [![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)](https://en.wikipedia.org/wiki/Markdown)
 [![Assembly](https://img.shields.io/badge/Assembly-6E4C13?logo=assembly&logoColor=white)](https://en.wikipedia.org/wiki/Assembly_language)
 [![Verilog](https://img.shields.io/badge/Verilog-00008B?logo=verilog&logoColor=green)](https://en.wikipedia.org/wiki/Verilog)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
 ### 🛠 Favourite Tools, Services and Platforms
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
@@ -82,7 +83,6 @@
 [![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)](https://www.php.net/)
 [![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apache-kafka&logoColor=white)](https://kafka.apache.org/)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)](https://flutter.dev/)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![AngularJS](https://img.shields.io/badge/AngularJS-E23237?logo=angularjs&logoColor=white)](https://angularjs.org/)
 [![VueJS](https://img.shields.io/badge/VueJS-4FC08D?logo=vue.js&logoColor=white)](https://vuejs.org/)
 [![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white)](https://sass-lang.com/)
