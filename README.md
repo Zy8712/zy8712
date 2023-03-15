@@ -53,7 +53,6 @@
 [![Google Fonts](https://img.shields.io/badge/Google_Fonts-4285F4?logo=google-fonts&logoColor=white)](https://fonts.google.com/)
 [![Font Awesome](https://img.shields.io/badge/Font_Awesome-528DD7?logo=font-awesome&logoColor=white)](https://fontawesome.com/)
 
-<br>
 
 ### 🛠 Favourite Tools, Services and Platforms
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
@@ -91,7 +90,6 @@
 [![macOS](https://img.shields.io/badge/macOS-000000?logo=macos&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
 [![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?logo=windows-terminal&logoColor=white)](https://www.microsoft.com/store/apps/9n0dx20hk701)
 
-<br>
 
 ### 📚 Currently Learning / Planning to Learn
 [![React JS](https://img.shields.io/badge/React_JS-61DAFB?logo=react&logoColor=white)](https://reactjs.org/)
