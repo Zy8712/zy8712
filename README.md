@@ -52,6 +52,8 @@
 [![Simple Icons](https://img.shields.io/badge/Simple_Icons-111111?logo=simple-icons&logoColor=white)](https://simpleicons.org/)
 [![Google Fonts](https://img.shields.io/badge/Google_Fonts-4285F4?logo=google-fonts&logoColor=white)](https://fonts.google.com/)
 [![Font Awesome](https://img.shields.io/badge/Font_Awesome-528DD7?logo=font-awesome&logoColor=white)](https://fontawesome.com/)
+[![Animate on Scroll](https://img.shields.io/badge/Animate_On_Scroll-3F51B5?logo=github&logoColor=white)](https://michalsnik.github.io/aos/)
+
 
 
 ### 🛠 Favourite Tools, Services and Platforms
