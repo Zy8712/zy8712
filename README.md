@@ -53,7 +53,7 @@
 [![Google Fonts](https://img.shields.io/badge/Google_Fonts-4285F4?logo=google-fonts&logoColor=white)](https://fonts.google.com/)
 [![Font Awesome](https://img.shields.io/badge/Font_Awesome-528DD7?logo=font-awesome&logoColor=white)](https://fontawesome.com/)
 [![Animate on Scroll](https://img.shields.io/badge/Animate_On_Scroll-3F51B5?logo=github&logoColor=white)](https://michalsnik.github.io/aos/)
-
+[![Line Awesome](https://img.shields.io/badge/Line_Awesome-1FB141?logo=icons8&logoColor=white)](https://icons8.com/line-awesome)
 
 
 ### 🛠 Favourite Tools, Services and Platforms
