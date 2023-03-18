@@ -48,6 +48,9 @@
 [![Verilog](https://img.shields.io/badge/Verilog-00008B?logo=verilog&logoColor=green)](https://en.wikipedia.org/wiki/Verilog)
 
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![JSON](https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white)](https://www.json.org/)
+[![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)](https://jquery.com/)
+
 
 [![Simple Icons](https://img.shields.io/badge/Simple_Icons-111111?logo=simple-icons&logoColor=white)](https://simpleicons.org/)
 [![Google Fonts](https://img.shields.io/badge/Google_Fonts-4285F4?logo=google-fonts&logoColor=white)](https://fonts.google.com/)
