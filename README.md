@@ -152,8 +152,8 @@
   <summary> ⚙️ Ongoing / Recently Completed Projects </summary>
   <br>
   <table>
-    <tr><td>Project Name</td><td>Programming Languages</td><td>GitHub Repository</td><td>Start Date</td><td>End Date</td></tr>
-    <tr><td>Personal Portfolio Website Ver.1</td><td>HTML, CSS, Javascript</td><td><a href="https://github.com/Zy8712/zy8712.github.io"> Link </a></td><td>December 25th, 2022</td><td>December 31st, 2022</td></tr>
+    <tr><td>Project Name</td><td>Languages & Frameworks</td><td>GitHub Repository</td><td>Start Date</td><td>End Date</td></tr>
+    <tr><td>Personal Portfolio Website Ver.1.0</td><td>HTML, CSS, Javascript</td><td><a href="https://github.com/Zy8712/zy8712.github.io_v1_depreciated"> Link </a></td><td>December 25th, 2022</td><td>December 31st, 2022</td></tr>
     <tr><td>Kaggle Competition - Titanic - Machine Learning from Disaster</td><td>Python</td><td><a href="https://github.com/Zy8712/Kaggle-Competition-Titanic---Machine-Learning-from-Disaster"> Link </a></td><td>February 24th, 2022</td><td>N/A</td></tr>
     <tr><td>Hunt The Ace</td><td>HTML, CSS, Javascript</td><td><a href="https://github.com/Zy8712/HuntTheAceJSGame"> Link </a></td><td>March 11th, 2023</td><td>March 13th, 2023</td></tr>
     <tr><td>Snake Game</td><td>Java</td><td><a href="https://github.com/Zy8712/SnakeGame"> Link </a></td><td>Start Date</td><td>N/A</td></tr>
@@ -163,5 +163,6 @@
      <tr><td>Planet Blaster Minigame Ver. 2.0</td><td>Javascript, HTML, CSS</td><td><a href="https://github.com/Zy8712/Earth-Defender-Minigame-v2"> Link </a></td><td>March 4th, 2023</td><td>N/A</td></tr>
     <tr><td>Portfolio Site Bootstrap Ver.</td><td>HTML, CSS, Javascript</td><td><a href="https://github.com/Zy8712/Portfolio-Site-Written-in-Bootstrap"> Link </a></td><td>March 1st, 2023</td><td>N/A</td></tr>
     <tr><td>Tic Tac Toe.</td><td>Java</td><td></td><td>March 14th, 2023</td><td>N/A</td></tr>
+    <tr><td>Personal Portfolio Website Ver.2.0</td><td>HTML, CSS, Javascript, Bootstrap, AOS</td><td><a href="https://github.com/Zy8712/zy8712.github.io"> Link </a></td><td>March 15th, 2023</td><td>N/A</td></tr>
   </table>
 </details>
