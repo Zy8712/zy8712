@@ -163,6 +163,8 @@
      <tr><td>Planet Blaster Minigame Ver. 2.0</td><td>Javascript, HTML, CSS</td><td><a href="https://github.com/Zy8712/Earth-Defender-Minigame-v2"> Link </a></td><td>March 4th, 2023</td><td>Ongoing</td></tr>
     <tr><td>Portfolio Site Bootstrap Ver.</td><td>HTML, CSS, Javascript</td><td><a href="https://github.com/Zy8712/Portfolio-Site-Written-in-Bootstrap"> Link </a></td><td>March 1st, 2023</td><td>N/A</td></tr>
     <tr><td>Tic Tac Toe.</td><td>Java</td><td> Link </td><td>March 14th, 2023</td><td>N/A</td></tr>
+    <tr><td>Movie Catalogue Created with ReactJS</td><td>HTML, CSS, Javascript, ReactJS</td><td><a href="https://github.com/Zy8712/react-app-practice-movie-catalogue">Link</a></td><td>March 15th, 2023</td><td>March 15th, 2023</td></tr>
+    <tr><td>Todo-List Created with ReactJS</td><td>HTML, CSS, Javascript, ReactJS</td><td><a href="https://github.com/Zy8712/react-app-to-do-list">Link</a> </td><td>March 16th, 2023</td><td>March 16th, 2023</td></tr>
     <tr><td>Personal Portfolio Website Ver.2.0</td><td>HTML, CSS, Javascript, Bootstrap, AOS</td><td><a href="https://github.com/Zy8712/zy8712.github.io"> Link </a></td><td>March 15th, 2023</td><td>Ongoing</td></tr>
   </table>
 </details>
