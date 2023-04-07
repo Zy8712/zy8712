@@ -171,3 +171,12 @@
     <tr><td>Personal Portfolio Website Ver.2.0</td><td>HTML, CSS, Javascript, Bootstrap, AOS, Highcharts</td><td><a href="https://github.com/Zy8712/zy8712.github.io"> Link </a></td><td>March 15th, 2023</td><td>Ongoing</td></tr>
   </table>
 </details>
+
+<details>
+  <summary> ⌨️ Coding Practice </summary>
+  <br>
+  <table>
+    <tr><td>Project Name</td><td>Languages & Frameworks</td><td>GitHub Repository</td><td>Start Date</td><td>End Date</td></tr>
+    <tr><td>LeetCode</td><td>Java, Python</td><td><a href="https://github.com/Zy8712/LeetCode-Practice"> Link </a></td><td></td><td>Ongoing</td></tr>
+  </table>
+</details>
