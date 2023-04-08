@@ -177,6 +177,8 @@
   <br>
   <table>
     <tr><td>Project Name</td><td>Languages & Frameworks</td><td>GitHub Repository</td><td>Start Date</td><td>End Date</td></tr>
-    <tr><td>LeetCode</td><td>Java, Python</td><td><a href="https://github.com/Zy8712/LeetCode-Practice"> Link </a></td><td></td><td>Ongoing</td></tr>
+    <tr><td>LeetCode Practice</td><td>Java, Python</td><td><a href="https://github.com/Zy8712/LeetCode-Practice"> Link </a></td><td>Nov 2022</td><td>N/A</td></tr>
+    <tr><td>HTML-CSS-Javascript Warmup</td><td>HTML, CSS, Javascript</td><td><a href="https://github.com/Zy8712/HTML-CSS-Javascript-Warmup"> Link </a></td><td>Oct 2022</td><td>N/A</td></tr>
+    <tr><td>CodeChef Practice</td><td>Java, Python</td><td><a href="https://github.com/Zy8712/CodeChef-Practice"> Link </a></td><td>Dec 2022</td><td>N/A</td></tr>
   </table>
 </details>
