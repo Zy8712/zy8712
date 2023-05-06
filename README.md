@@ -188,3 +188,6 @@
     <tr><td>CodeChef Practice</td><td>Java, Python</td><td><a href="https://github.com/Zy8712/CodeChef-Practice"> Link </a></td><td>Dec 2022</td><td>N/A</td></tr>
   </table>
 </details>
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
