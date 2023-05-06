@@ -20,6 +20,9 @@
 <a href="https://www.linkedin.com/in/bryan-li-a15437250/" target="__blank">
     <img align="center" alt="Bryan Li | LinkedIn" src="https://img.shields.io/badge/LinkedIn-Bryan_Li-0072b1?style=flat&logo=linkedin&logoColor=white" />
 </a>
+<a href="https://www.credly.com/users/bryan-li712/badges" target="_blank">
+  <img align="center" alt="Bryan Li | Credly" src="https://img.shields.io/badge/Credly-Bryan_Li-FF6B00?style=flat&logo=credly&logoColor=white" />
+</a>
 <a href="https://github.com/Zy8712" target="_blank">
   <img align="center" alt="Bryan Li | GitHub" src="https://img.shields.io/badge/GitHub-Zy8712-181717?style=flat&logo=github&logoColor=white" />
 </a>
