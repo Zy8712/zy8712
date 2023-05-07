@@ -1,11 +1,9 @@
 name: Update badges
 
 on:
-  schedule:
-    # Runs at 2am UTC
-    - cron: "0 2 * * *"
+  workflow_dispatch: # run manually
 jobs:
-  update-readme:
+  update-badges:
     name: Update Readme with badges
     runs-on: ubuntu-latest
     steps:
