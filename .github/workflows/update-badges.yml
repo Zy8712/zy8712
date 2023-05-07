@@ -22,6 +22,7 @@ jobs:
         uses: actions/checkout@v2
         with:
           ref: 'master'
+          persist-credentials: false
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
         with:
@@ -30,7 +31,7 @@ jobs:
           NUMBER_LAST_BADGES: 28
       - name: Commit and push changes
         run: |
-          git config user.name zy8712
+          git config user.name Zy8712
           git config user.email ${{ secrets.MY_README_EMAIL_VALUE }}
           git add README.md
           git commit -m "Update badges"
