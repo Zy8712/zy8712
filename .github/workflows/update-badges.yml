@@ -12,7 +12,6 @@ jobs:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
         with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           CREDLY_USER: bryan-li712
           BADGE_SIZE: 180
           NUMBER_LAST_BADGES: 28
