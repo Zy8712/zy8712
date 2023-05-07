@@ -24,3 +24,5 @@ jobs:
           CREDLY_USER: bryan-li712
           BADGE_SIZE: 180
           NUMBER_LAST_BADGES: 28
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
