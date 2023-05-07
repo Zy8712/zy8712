@@ -18,11 +18,22 @@ jobs:
     name: Update Readme with badges
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          ref: 'master'
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
         with:
           CREDLY_USER: bryan-li712
           BADGE_SIZE: 180
           NUMBER_LAST_BADGES: 28
+      - name: Commit and push changes
+        run: |
+          git config user.name zy8712
+          git config user.email ${{ secrets.MY_README_EMAIL_VALUE }}
+          git add README.md
+          git commit -m "Update badges"
+          git push -f origin master
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.BADGES_PAT }}
