@@ -1,9 +1,9 @@
 name: Update badges
 
 on:
-  # run automatically every day
-  schedule:
-    - cron: "0 2 * * *"     # Runs at 2am UTC
+  # run automatically every day (commented out due to issues, manual push when update needed)
+  #schedule:
+    - #cron: "0 2 * * *"     # Runs at 2am UTC
   
   # allows to manually run the job at any time
   workflow_dispatch:
@@ -22,5 +22,5 @@ jobs:
         uses: pemtajo/badge-readme@main
         with:
           CREDLY_USER: bryan-li712
-          BADGE_SIZE: 180
+          BADGE_SIZE: 120
           NUMBER_LAST_BADGES: 28
