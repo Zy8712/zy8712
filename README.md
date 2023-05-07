@@ -190,4 +190,7 @@
 </details>
 
 <!--START_SECTION:badges-->
+[![Working in a Digital World: Professional Skills](https://images.credly.com/size/180x180/images/4f76c627-c180-49ae-a5a0-742885eef581/Working_in_a_Digital_World-_Professional_Skills.png)](http://www.credly.com/badges/cd13559a-acff-4445-94e3-1d12f248b510 "Working in a Digital World: Professional Skills")
+[![Agile Explorer](https://images.credly.com/size/180x180/images/3b7846e2-bdbd-4ed6-8543-182f47502190/image.png)](http://www.credly.com/badges/6bec94a9-a708-4308-be75-d64c68e5731b "Agile Explorer")
+[![Project Management Fundamentals](https://images.credly.com/size/180x180/images/15977e21-6a48-4c41-ac31-16883188a049/SkillsBuild_ProjectManagementFundamentals_Badge.png)](http://www.credly.com/badges/ccae432f-a826-4b84-8ffd-3dc3540f87a9 "Project Management Fundamentals")
 <!--END_SECTION:badges-->
