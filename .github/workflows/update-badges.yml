@@ -1,7 +1,18 @@
 name: Update badges
 
 on:
-  workflow_dispatch: # run manually
+  # run automatically every day
+  schedule:
+    - cron: "0 2 * * *"     # Runs at 2am UTC
+  
+  # allows to manually run the job at any time
+  workflow_dispatch:
+  
+  # run on every push on the master branch
+  push:
+    branches:
+    - master
+    
 jobs:
   update-badges:
     name: Update Readme with badges
