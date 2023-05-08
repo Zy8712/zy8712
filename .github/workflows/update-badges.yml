@@ -22,5 +22,5 @@ jobs:
         uses: pemtajo/badge-readme@main
         with:
           CREDLY_USER: bryan-li712
-          BADGE_SIZE: 120
-          NUMBER_LAST_BADGES: 28
+          BADGE_SIZE: 110
+          NUMBER_LAST_BADGES: 24
