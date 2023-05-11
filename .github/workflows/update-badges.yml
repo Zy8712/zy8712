@@ -21,6 +21,8 @@ jobs:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
         with:
+          COMMIT_MESSAGE: "Badges updated by workflow"
           CREDLY_USER: bryan-li712
+          CREDLY_SORT: POPULAR
           BADGE_SIZE: 110
           NUMBER_LAST_BADGES: 24
