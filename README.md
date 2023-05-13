@@ -17,7 +17,7 @@
 </p>
 <p align="center">
 <img align="center" class="img" src="https://komarev.com/ghpvc/?username=Bz8712&color=brightgreen&label=Profile+Visits" />
-<a href="https://www.linkedin.com/in/bryan-li-a15437250/" target="__blank">
+<a href="https://www.linkedin.com/in/bryan-li712/" target="__blank">
     <img align="center" alt="Bryan Li | LinkedIn" src="https://img.shields.io/badge/LinkedIn-Bryan_Li-0072b1?style=flat&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://www.credly.com/users/bryan-li712" target="_blank">
@@ -207,5 +207,6 @@
 [![Web Development Fundamentals](https://images.credly.com/size/110x110/images/0c1c6eed-818c-4f78-bfaa-7ea8704c863a/image.png)](http://www.credly.com/badges/729cdb3d-f128-4956-9706-3fb55d6e04fa "Web Development Fundamentals")
 [![Foundations in Effective Mentoring](https://images.credly.com/size/110x110/images/ab2a4d4b-8f72-4029-92a6-67285936982f/image.png)](http://www.credly.com/badges/91f09e8c-691f-4c51-96d6-2bb04ea2b903 "Foundations in Effective Mentoring")
 <!--END_SECTION:badges-->
-  
+
+  <p>Click <a href="https://www.credly.com/users/bryan-li712/badges">here</a> to see the rest of my badges on Credly. Workflow for automated readme badge updates sourced from <a href="https://github.com/pemtajo/badge-readme">here</a>.</p>
 </details>
