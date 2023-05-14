@@ -209,4 +209,8 @@
 <!--END_SECTION:badges-->
 
   <p>Click <a href="https://www.credly.com/users/bryan-li712/badges">here</a> to see the rest of my badges on Credly. Workflow for automated readme badge updates sourced from <a href="https://github.com/pemtajo/badge-readme">here</a>.</p>
+  <br>
+  
+  [![An image of @bryanli712's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bryanli712)](https://holopin.io/@bryanli712)
+  
 </details>
