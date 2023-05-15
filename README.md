@@ -190,7 +190,7 @@
 </details>
 
 <details>
-  <summary> 🎖️ Licenses/Certifications 🏆 </summary>
+  <summary> 🎖️ Licenses, Certifications, Credentials, Badges & Pins 🏆 </summary>
   <br>
   
 <!--START_SECTION:badges-->
