@@ -90,6 +90,9 @@
 [![Pexels](https://img.shields.io/badge/Pexels-05A081?logo=pexels&logoColor=white)](https://www.pexels.com/)
 [![Unsplash](https://img.shields.io/badge/Unsplash-000000?logo=unsplash&logoColor=white)](https://unsplash.com/)
 
+<details>
+  <summary>More</summary>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![Indeed](https://img.shields.io/badge/Indeed-003A9B?logo=indeed&logoColor=white)](https://indeed.com/)
 [![Glassdoor](https://img.shields.io/badge/Glassdoor-0CAA41?logo=glassdoor&logoColor=white)](https://www.glassdoor.ca/index.htm)
@@ -102,6 +105,8 @@
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://www.linux.org/)
 [![macOS](https://img.shields.io/badge/macOS-000000?logo=macos&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
 [![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?logo=windows-terminal&logoColor=white)](https://www.microsoft.com/store/apps/9n0dx20hk701)
+  
+</details>
 
 
 ### 📚 Currently Learning / Planning to Learn
