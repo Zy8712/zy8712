@@ -191,6 +191,7 @@
     <tr><td>LeetCode Practice</td><td>Java, Python</td><td><a href="https://github.com/Zy8712/LeetCode-Practice"> Link </a></td><td>Nov 2022</td><td>N/A</td></tr>
     <tr><td>HTML-CSS-Javascript Warmup</td><td>HTML, CSS, Javascript</td><td><a href="https://github.com/Zy8712/HTML-CSS-Javascript-Warmup"> Link </a></td><td>Oct 2022</td><td>N/A</td></tr>
     <tr><td>CodeChef Practice</td><td>Java, Python</td><td><a href="https://github.com/Zy8712/CodeChef-Practice"> Link </a></td><td>Dec 2022</td><td>N/A</td></tr>
+    <tr><td>Frontend Mentor Practice</td><td>HTML, CSS, Javascript</td><td><a href="https://github.com/Zy8712/frontend-mentor-practice"> Link </a></td><td>May 2022</td><td>N/A</td></tr>
   </table>
 </details>
 
