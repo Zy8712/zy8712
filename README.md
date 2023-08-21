@@ -53,7 +53,7 @@
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![Sass](https://img.shields.io/badge/Sass/Scss-CC6699?logo=sass&logoColor=white)](https://sass-lang.com/)
 [![Less](https://img.shields.io/badge/Less-1D365D?logo=less&logoColor=white)](https://lesscss.org/)
-[![React JS](https://img.shields.io/badge/React_JS-61DAFB?logo=react&logoColor=white)](https://reactjs.org/)
+[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)](https://reactjs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![JSON](https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white)](https://www.json.org/)
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)](https://jquery.com/)
@@ -65,7 +65,7 @@
 [![Animate on Scroll](https://img.shields.io/badge/Animate_On_Scroll-3F51B5?logo=github&logoColor=white)](https://michalsnik.github.io/aos/)
 [![Line Awesome](https://img.shields.io/badge/Line_Awesome-1FB141?logo=icons8&logoColor=white)](https://icons8.com/line-awesome)
   
-
+<!--
 ### 📚 Currently Learning / Planning to Learn
 [![Node JS](https://img.shields.io/badge/Node_JS-339933?logo=node.js&logoColor=white)](https://nodejs.org/en/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -76,7 +76,7 @@
 [![AngularJS](https://img.shields.io/badge/AngularJS-E23237?logo=angularjs&logoColor=white)](https://angularjs.org/)
 [![VueJS](https://img.shields.io/badge/VueJS-4FC08D?logo=vue.js&logoColor=white)](https://vuejs.org/)
 [![Spring Framework](https://img.shields.io/badge/Spring_Framework-6DB33F?logo=spring&logoColor=white)](https://spring.io/)
-[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)](https://kotlinlang.org/) -->
 
 
 <br>
