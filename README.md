@@ -25,8 +25,14 @@
 <a href="https://www.frontendmentor.io/profile/Zy8712" target="_blank">
   <img align="center" alt="Bryan Li | Frontend Mentor" src="https://img.shields.io/badge/Frontend_Mentor-Bryan_Li-3F54A3?style=flat&logo=frontend-mentor&logoColor=white" />
 </a>
+<a href="https://www.freecodecamp.org/bryan-li712" target="_blank">
+  <img align="center" alt="Bryan Li | FreeCodeCamp" src="https://img.shields.io/badge/freeCodeCamp-Bryan_Li-0A0A23?style=flat&logo=freecodecamp&logoColor=white" />
+</a>
 <a href="https://www.codechef.com/users/zy8712" target="_blank">
   <img align="center" alt="Bryan Li | CodeChef" src="https://img.shields.io/badge/CodeChef-zy8712-5B4638?style=flat&logo=codechef&logoColor=white" />
+</a>
+<a href="https://medium.com/@bryan-li712" target="_blank">
+  <img align="center" alt="Bryan Li | Medium" src="https://img.shields.io/badge/Medium-Bryan_Li-000000?style=flat&logo=medium&logoColor=white" />
 </a>
 </p>
 <p align="center">
