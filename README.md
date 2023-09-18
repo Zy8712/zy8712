@@ -97,10 +97,10 @@
   <summary> 📊 Extra GitHub Stats </summary>
   <br>
   <div align="center"; style="display: flex; flex-direction: row;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=zy8712&theme=tokyonight" alt="mystreak"/>
-    <img class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zy8712&theme=tokyonight" alt="github_profile_stats" />
-    <img class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zy8712&theme=tokyonight" />
-    <img class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zy8712&theme=tokyonight" />
+    <img alt="My Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=zy8712&theme=tokyonight" alt="mystreak"/>
+    <img alt="Profile Stats" class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zy8712&theme=tokyonight" />
+    <img alt="Language Pie Chart" class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zy8712&theme=tokyonight" />
+    <img alt="Language Percentage Bar Graph" class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zy8712&theme=tokyonight" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zy8712&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&env=PAT_1&theme=dark" /> 
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zy8712&show_icons=true&hide_border=true&layout=compact&langs_count=8&env=PAT_1&theme=dark"/>
     <picture>
@@ -108,6 +108,7 @@
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/zy8712/zy8712/raw/output/github-snake.svg">
       <img alt="snk" src="https://github.com/zy8712/zy8712/raw/output/github-snake.svg">
     </picture>
+    <img alt="Contributions Profile" src="https://github-readme-activity-graph.vercel.app/graph?username=zy8712&custom_title=Bryan%20Li%27s%20Contribution%20Graph%20%5BLast%2030%20Days%5D&hide_border=true&theme=tokyo-night&bg_color=1d1b1b&color=ffffff&radius=16" />
     <!-- 
     <p align="center">
       <a href="https://github.com/Zy8712">
