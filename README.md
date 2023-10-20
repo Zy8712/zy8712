@@ -39,7 +39,7 @@
   <img align="center" class="img" src="https://komarev.com/ghpvc/?username=Bz8712&color=brightgreen&label=Profile+Visits" />
 </p>
 
-### 👨🏼‍💻 Languages, Frameworks, and Libraries
+### 👨🏼‍💻 Languages, Frameworks, Libraries, etc
 [![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)](https://www.java.com/)
 [![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://html.com/)
@@ -67,9 +67,11 @@
 
 [![Simple Icons](https://img.shields.io/badge/Simple_Icons-111111?logo=simple-icons&logoColor=white)](https://simpleicons.org/)
 [![Google Fonts](https://img.shields.io/badge/Google_Fonts-4285F4?logo=google-fonts&logoColor=white)](https://fonts.google.com/)
-[![Font Awesome](https://img.shields.io/badge/Font_Awesome-528DD7?logo=font-awesome&logoColor=white)](https://fontawesome.com/)
 [![Animate on Scroll](https://img.shields.io/badge/Animate_On_Scroll-3F51B5?logo=github&logoColor=white)](https://michalsnik.github.io/aos/)
 [![Line Awesome](https://img.shields.io/badge/Line_Awesome-1FB141?logo=icons8&logoColor=white)](https://icons8.com/line-awesome)
+[![Font Awesome](https://img.shields.io/badge/Font_Awesome-528DD7?logo=font-awesome&logoColor=white)](https://fontawesome.com/)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)](https://vercel.com/)
   
 <!--
 ### 📚 Currently Learning / Planning to Learn
@@ -194,6 +196,7 @@
 
 <details>
   <summary>🛠 Favourite Tools, Services and Platforms</summary>
+  <br>
   
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse-ide&logoColor=white)](https://www.eclipse.org/)
