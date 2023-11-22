@@ -9,6 +9,7 @@
                     
                    Full Stack Web Developer | Recent Graduate | Specialized Honours in Computer Science (BSc)
 ```
+
 <p align="center">
 <a href="https://www.linkedin.com/in/bryan-li712/" target="__blank">
     <img align="center" alt="Bryan Li | LinkedIn" src="https://img.shields.io/badge/LinkedIn-Bryan_Li-0072b1?style=flat&logo=linkedin&logoColor=white" />
@@ -38,6 +39,8 @@
 <p align="center">
   <img align="center" class="img" src="https://komarev.com/ghpvc/?username=Bz8712&color=brightgreen&label=Profile+Visits" />
 </p>
+
+
 
 ### 👨🏼‍💻 Languages, Frameworks, Libraries, etc
 [![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)](https://www.java.com/)
@@ -232,6 +235,12 @@
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://www.linux.org/)
 [![macOS](https://img.shields.io/badge/macOS-000000?logo=macos&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
 [![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?logo=windows-terminal&logoColor=white)](https://www.microsoft.com/store/apps/9n0dx20hk701)
+
+
+
+<img src="./assets/saturn-v-space.gif" alt="astronaut_rocket_gif" style="width: 300px;" >
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?      font=&weight=800&size=32&duration=3000&pause=1000&center=true&random=false&width=600&lines=Hi%2C+I'm+Bryan+Li!!!;I'm+a...;Specialized+Honours+Graduate;Aspiring+Full+Stack+Web+Developer" alt="Typing SVG" /></a>
 
 </details>
 
