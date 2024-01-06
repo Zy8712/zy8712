@@ -40,7 +40,8 @@
   <img align="center" class="img" src="https://komarev.com/ghpvc/?username=Bz8712&color=brightgreen&label=Profile+Visits" />
 </p>
 
-
+### 🛠 Technologies
+![skills](https://skillicons.dev/icons?i=java,py,html,css,js,sass,react,tailwind,bootstrap,ts,vite,vitest,vscode,figma,jquery,c,cpp,fortran,github,git,jest,matlab,mysql,netlify,nodejs,php,powershell,redux,svg,vercel,atom&theme=dark)
 
 ### 👨🏼‍💻 Languages, Frameworks, Libraries, etc
 [![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)](https://www.java.com/)
