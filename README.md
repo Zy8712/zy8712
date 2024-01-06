@@ -40,11 +40,25 @@
   <img align="center" class="img" src="https://komarev.com/ghpvc/?username=Bz8712&color=brightgreen&label=Profile+Visits" />
 </p>
 
-### 🛠 Technologies
-![skills](https://skillicons.dev/icons?i=java,py,html,css,js,sass,react,tailwind,bootstrap,ts,vite,vitest,vscode,figma,jquery,c,cpp,fortran,github,git,jest,matlab,mysql,netlify,nodejs,php,powershell,redux,svg,vercel,atom&theme=dark)
+### 🛠 MY SKILLSET
 
-### 👨🏼‍💻 Languages, Frameworks, Libraries, etc
-[![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)](https://www.java.com/)
+<h4>👨‍💻 Web Development</h4>
+
+![skills](https://skillicons.dev/icons?i=html,css,js,sass,react,tailwind,bootstrap,ts,nodejs,nextjs,redux,jquery,vite,vitest,jest,materialui,styledcomponents,regex&theme=dark)
+
+<h4>⚙️ Other / General Purpose Technologies</h4>
+
+![skills](https://skillicons.dev/icons?i=java,py,c,cpp,md,fortran,matlab,androidstudio,mysql,postgres,php,bash,powershell&theme=dark)
+
+<h4>🖥️ Services & Softwares</h4>
+
+![skills](https://skillicons.dev/icons?i=github,vscode,figma,vercel,svg,atom,git,githubactions,netlify,linux&theme=dark)
+
+<details>
+  <summary>📜 View More Details & Additional Technologies</summary>
+  <br>
+
+  [![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)](https://www.java.com/)
 [![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://html.com/)
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
@@ -58,7 +72,6 @@
 [![Verilog](https://img.shields.io/badge/Verilog-00008B?logo=verilog&logoColor=green)](https://en.wikipedia.org/wiki/Verilog)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-
 
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![Sass](https://img.shields.io/badge/Sass/Scss-CC6699?logo=sass&logoColor=white)](https://sass-lang.com/)
@@ -76,6 +89,10 @@
 [![Font Awesome](https://img.shields.io/badge/Font_Awesome-528DD7?logo=font-awesome&logoColor=white)](https://fontawesome.com/)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)](https://vercel.com/)
+</details>
+
+
+
   
 <!--
 ### 📚 Currently Learning / Planning to Learn
