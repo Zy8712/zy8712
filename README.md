@@ -2,33 +2,38 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/bryan-li712/" target="__blank">
-    <img align="center" alt="Bryan Li | LinkedIn" src="https://img.shields.io/badge/LinkedIn-Bryan_Li-0072b1?style=flat&logo=linkedin&logoColor=white" />
+    <img align="center" alt="Bryan Li | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://www.credly.com/users/bryan-li712" target="_blank">
-  <img align="center" alt="Bryan Li | Credly" src="https://img.shields.io/badge/Credly-Bryan_Li-FF6B00?style=flat&logo=credly&logoColor=white" />
+  <img align="center" alt="Bryan Li | Credly" src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" />
 </a>
 <a href="https://github.com/Zy8712" target="_blank">
-  <img align="center" alt="Bryan Li | GitHub" src="https://img.shields.io/badge/GitHub-Zy8712-181717?style=flat&logo=github&logoColor=white" />
+  <img align="center" alt="Bryan Li | GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://leetcode.com/Zy8712/" target="_blank">
-  <img align="center" alt="Bryan Li | LeetCode" src="https://img.shields.io/badge/LeetCode-Zy8712-FFA116?style=flat&logo=leetcode&logoColor=white" />
+  <img align="center" alt="Bryan Li | LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 <a href="https://www.frontendmentor.io/profile/Zy8712" target="_blank">
-  <img align="center" alt="Bryan Li | Frontend Mentor" src="https://img.shields.io/badge/Frontend_Mentor-Bryan_Li-3F54A3?style=flat&logo=frontend-mentor&logoColor=white" />
-</a>
-<a href="https://www.freecodecamp.org/bryan-li712" target="_blank">
-  <img align="center" alt="Bryan Li | FreeCodeCamp" src="https://img.shields.io/badge/freeCodeCamp-Bryan_Li-0A0A23?style=flat&logo=freecodecamp&logoColor=white" />
-</a>
-<a href="https://www.codechef.com/users/zy8712" target="_blank">
-  <img align="center" alt="Bryan Li | CodeChef" src="https://img.shields.io/badge/CodeChef-zy8712-5B4638?style=flat&logo=codechef&logoColor=white" />
-</a>
-<a href="https://medium.com/@bryan-li712" target="_blank">
-  <img align="center" alt="Bryan Li | Medium" src="https://img.shields.io/badge/Medium-Bryan_Li-000000?style=flat&logo=medium&logoColor=white" />
-</a>
+  <img align="center" alt="Bryan Li | Frontend Mentor" src="https://img.shields.io/badge/Frontend_Mentor-3F54A3?style=for-the-badge&logo=frontend-mentor&logoColor=white" />
+</a>    
+<details align="center">
+    <summary>Other Socials</summary>
+    <br>
+    <a href="https://www.freecodecamp.org/bryan-li712" target="_blank">
+        <img align="center" alt="Bryan Li | FreeCodeCamp" src="https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" />
+    </a>
+    <a href="https://www.codechef.com/users/zy8712" target="_blank">
+      <img align="center" alt="Bryan Li | CodeChef" src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+    </a>
+    <a href="https://medium.com/@bryan-li712" target="_blank">
+      <img align="center" alt="Bryan Li | Medium" src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+    </a>
+</details>
 </p>
 <p align="center">
   <img align="center" class="img" src="https://komarev.com/ghpvc/?username=Bz8712&color=brightgreen&label=Profile+Visits" />
 </p>
+
 
 ### 🛠 MY SKILLSET
 
