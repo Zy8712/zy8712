@@ -1,14 +1,4 @@
-```
-
-                                  ██████╗ ██████╗ ██╗   ██╗ █████╗ ███╗   ██╗    ██╗     ██╗
-                                  ██╔══██╗██╔══██╗╚██╗ ██╔╝██╔══██╗████╗  ██║    ██║     ██║
-                                  ██████╔╝██████╔╝ ╚████╔╝ ███████║██╔██╗ ██║    ██║     ██║
-                                  ██╔══██╗██╔══██╗  ╚██╔╝  ██╔══██║██║╚██╗██║    ██║     ██║
-                                  ██████╔╝██║  ██║   ██║   ██║  ██║██║ ╚████║    ███████╗██║
-                                  ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝    ╚══════╝╚═╝
-                    
-                   Full Stack Web Developer | Recent Graduate | Specialized Honours in Computer Science (BSc)
-```
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=24&text=Bryan%20Li&section=header&reversal=false&textBg=false&fontAlign=50&animation=twinkling&desc=Aspiring%20Full-Stack%20Developer%20|%20Recent%20Graduate%20|%20Specialized%20Honours%20in%20Computer%20Science%20(BSc)&fontColor=FFFFFF&fontAlignY=36&descAlignY=60&fontSize=85&descSize=18)
 
 <p align="center">
 <a href="https://www.linkedin.com/in/bryan-li712/" target="__blank">
@@ -56,28 +46,42 @@
 
 <details>
   <summary>📜 View More Details & Additional Technologies</summary>
-  <br>
+  <h3>Web Development</h3>
+  
+  | Icon | Name | My Experience | Projects Used In |
+  | :----: | :----: | :----------: | :------------: |
+  | ![html](https://skillicons.dev/icons?i=html&theme=dark) | [![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://html.com/) | 6+ Years | |
+  | ![css](https://skillicons.dev/icons?i=css&theme=dark) | [![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html) | 5+ Years | |
+  | ![javascript](https://skillicons.dev/icons?i=js&theme=dark) | [![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=yellow)](https://www.javascript.com/) | 4+ Years | |
+  | ![sass](https://skillicons.dev/icons?i=sass&theme=dark) | [![Sass](https://img.shields.io/badge/Sass/Scss-CC6699?logo=sass&logoColor=white)](https://sass-lang.com/) | 1+ Years | |
+  | ![react](https://skillicons.dev/icons?i=react&theme=dark) | [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)](https://reactjs.org/) | 1+ Years | |
+  | ![tailwind](https://skillicons.dev/icons?i=tailwind&theme=dark) | [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) | 1+ Years | |
+  | ![bootstrap](https://skillicons.dev/icons?i=bootstrap&theme=dark) | [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)](https://getbootstrap.com/) | 1+ Years | |
+  | ![typescript](https://skillicons.dev/icons?i=ts&theme=dark) | [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/) | < 1 Year | |
+  | ![nodejs](https://skillicons.dev/icons?i=nodejs&theme=dark) | [![Node JS](https://img.shields.io/badge/Node_JS-339933?logo=node.js&logoColor=white)](https://nodejs.org/en/) | 1+ Years | |
+  | | | | |
+  | | | | |
 
-  [![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)](https://www.java.com/)
-[![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)](https://www.python.org/)
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://html.com/)
-[![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
-[![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=yellow)](https://www.javascript.com/)
-[![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B) 
-[![Fortran](https://img.shields.io/badge/Fortran-white?logo=fortran&logoColor=734f96)](https://fortran-lang.org/)
-[![MatLab](https://img.shields.io/badge/MatLab-8B4000?logo=assembly&logoColor=white)](https://www.mathworks.com/products/matlab.html)
-[![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)](https://en.wikipedia.org/wiki/Markdown)
+
+  <h3>Other / General Purpose Technologies</h3>
+  
+  | Icon | Name | My Experience | Projects Used In |
+  | :----: | :----: | :----------: | :------------: |
+  | | [![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)](https://www.java.com/) | | |
+  | | [![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)](https://www.python.org/) | | |
+  | | [![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language)) | | |
+  | | [![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B) | | |
+  | | [![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)](https://en.wikipedia.org/wiki/Markdown) | | |
+  | | [![Fortran](https://img.shields.io/badge/Fortran-white?logo=fortran&logoColor=734f96)](https://fortran-lang.org/) | | |
+  | | [![MatLab](https://img.shields.io/badge/MatLab-8B4000?logo=assembly&logoColor=white)](https://www.mathworks.com/products/matlab.html) | | |
+  | | | | |
+
 [![Assembly](https://img.shields.io/badge/Assembly-6E4C13?logo=assembly&logoColor=white)](https://en.wikipedia.org/wiki/Assembly_language)
 [![Verilog](https://img.shields.io/badge/Verilog-00008B?logo=verilog&logoColor=green)](https://en.wikipedia.org/wiki/Verilog)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![Sass](https://img.shields.io/badge/Sass/Scss-CC6699?logo=sass&logoColor=white)](https://sass-lang.com/)
 [![Less](https://img.shields.io/badge/Less-1D365D?logo=less&logoColor=white)](https://lesscss.org/)
-[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)](https://reactjs.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![JSON](https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white)](https://www.json.org/)
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)](https://jquery.com/)
 
@@ -96,7 +100,7 @@
   
 <!--
 ### 📚 Currently Learning / Planning to Learn
-[![Node JS](https://img.shields.io/badge/Node_JS-339933?logo=node.js&logoColor=white)](https://nodejs.org/en/)
+
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=.net&logoColor=white)](https://dotnet.microsoft.com/en-us/)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)](https://www.php.net/)
@@ -254,6 +258,17 @@
 [![macOS](https://img.shields.io/badge/macOS-000000?logo=macos&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
 [![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?logo=windows-terminal&logoColor=white)](https://www.microsoft.com/store/apps/9n0dx20hk701)
 
+```
+
+                                  ██████╗ ██████╗ ██╗   ██╗ █████╗ ███╗   ██╗    ██╗     ██╗
+                                  ██╔══██╗██╔══██╗╚██╗ ██╔╝██╔══██╗████╗  ██║    ██║     ██║
+                                  ██████╔╝██████╔╝ ╚████╔╝ ███████║██╔██╗ ██║    ██║     ██║
+                                  ██╔══██╗██╔══██╗  ╚██╔╝  ██╔══██║██║╚██╗██║    ██║     ██║
+                                  ██████╔╝██║  ██║   ██║   ██║  ██║██║ ╚████║    ███████╗██║
+                                  ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝    ╚══════╝╚═╝
+                    
+                   Full Stack Web Developer | Recent Graduate | Specialized Honours in Computer Science (BSc)
+```
 
 
 <img src="./assets/saturn-v-space.gif" alt="astronaut_rocket_gif" style="width: 300px;" >
@@ -262,3 +277,4 @@
 
 </details>
 
+![footer](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=24&section=footer&reversal=false&textBg=false&fontAlign=50&animation=twinkling&fontAlignY=36&descAlignY=60&descSize=20)
