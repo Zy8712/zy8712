@@ -196,7 +196,7 @@
 
 <img src="./assets/saturn-v-space.gif" alt="astronaut_rocket_gif" style="width: 300px;" >
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?      font=&weight=800&size=32&duration=3000&pause=1000&center=true&random=false&width=600&lines=Hi%2C+I'm+Bryan+Li!!!;I'm+a...;Specialized+Honours+Graduate;Aspiring+Full+Stack+Web+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=800&size=32&duration=3000&pause=1000&center=true&random=false&width=600&lines=Hi%2C+I'm+Bryan+Li!!!;I'm+a...;Specialized+Honours+Graduate;Aspiring+Full+Stack+Web+Developer" alt="Typing SVG" /></a>
 
 </details>
 
@@ -291,11 +291,13 @@
   <p align="center">
     <a href="https://leetcode.com/Zy8712/" target="_blank">
       <img title="Zy8712's LeetCode Stats" alt="Zy8712's LeetCode Stats" src="https://leetcard.jacoblin.cool/Zy8712?theme=unicorn&font=Paprika&ext=heatmap" />
-    </a><br>
+    </a>
+  </p>
+  <p align="center">
     <a href="https://leetcode.com/Zy8712/" target="_blank">
       <img title="Zy8712's LeetCode Stats" alt="Zy8712's LeetCode Stats" src="https://leetcode-stats-six.vercel.app/?username=Zy8712&theme=dark">
     </a>
   </p>
 </details>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=24&section=footer&reversal=false&textBg=false&fontAlign=50&animation=twinkling&fontAlignY=36&descAlignY=60&descSize=20)
+![footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=24&section=footer&reversal=false&textBg=false&fontAlign=50&animation=twinkling&fontAlignY=36&descAlignY=60&descSize=20)
