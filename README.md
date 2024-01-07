@@ -48,8 +48,8 @@
   <summary>📜 View More Details & Additional Technologies</summary>
   <h3>Web Development</h3>
   
-  | Icon | Name | My Experience | Projects Used In |
-  | :----: | :----: | :----------: | :------------: |
+  | 📷 Icon | 📄 Name | 🗃️ My Experience | 🗂️ Projects Used In | Last Used |
+  | :----: | :----: | :----------: | :------------: | :-----: |
   | ![html](https://skillicons.dev/icons?i=html&theme=dark) | [![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://html.com/) | 6+ Years | |
   | ![css](https://skillicons.dev/icons?i=css&theme=dark) | [![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html) | 5+ Years | |
   | ![javascript](https://skillicons.dev/icons?i=js&theme=dark) | [![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=yellow)](https://www.javascript.com/) | 4+ Years | |
@@ -59,31 +59,45 @@
   | ![bootstrap](https://skillicons.dev/icons?i=bootstrap&theme=dark) | [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)](https://getbootstrap.com/) | 1+ Years | |
   | ![typescript](https://skillicons.dev/icons?i=ts&theme=dark) | [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/) | < 1 Year | |
   | ![nodejs](https://skillicons.dev/icons?i=nodejs&theme=dark) | [![Node JS](https://img.shields.io/badge/Node_JS-339933?logo=node.js&logoColor=white)](https://nodejs.org/en/) | 1+ Years | |
-  | | | | |
+  | ![nextjs](https://skillicons.dev/icons?i=nextjs&theme=dark) | [![NextJS](https://img.shields.io/badge/Next_JS-black?logo=next.js&logoColor=white)](https://nextjs.org/) | | |
+  | ![redux](https://skillicons.dev/icons?i=redux&theme=dark) | [![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)](https://redux.js.org/) | | |
+  | ![jquery](https://skillicons.dev/icons?i=jquery&theme=dark) | [![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)](https://jquery.com/) | | |
+  | ![vite](https://skillicons.dev/icons?i=vite&theme=dark) | [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/) | 1+ Years | |
+  | ![vitest](https://skillicons.dev/icons?i=vitest&theme=dark) | | | |
+  | ![jest](https://skillicons.dev/icons?i=jest&theme=dark) | | | |
+  | ![materialui](https://skillicons.dev/icons?i=materialui&theme=dark) | | | |
+  | ![styledcomponents](https://skillicons.dev/icons?i=styledcomponents&theme=dark) | | | |
+  | ![regex](https://skillicons.dev/icons?i=regex&theme=dark) | | | |
   | | | | |
 
 
   <h3>Other / General Purpose Technologies</h3>
   
-  | Icon | Name | My Experience | Projects Used In |
-  | :----: | :----: | :----------: | :------------: |
-  | | [![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)](https://www.java.com/) | | |
-  | | [![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)](https://www.python.org/) | | |
-  | | [![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language)) | | |
-  | | [![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B) | | |
-  | | [![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)](https://en.wikipedia.org/wiki/Markdown) | | |
-  | | [![Fortran](https://img.shields.io/badge/Fortran-white?logo=fortran&logoColor=734f96)](https://fortran-lang.org/) | | |
-  | | [![MatLab](https://img.shields.io/badge/MatLab-8B4000?logo=assembly&logoColor=white)](https://www.mathworks.com/products/matlab.html) | | |
+  | 📷 Icon | 📄 Name | 🗃️ My Experience | 🗂️ Projects Used In | Last Used |
+  | :----: | :----: | :----------: | :------------: | :-----: |
+  | ![java](https://skillicons.dev/icons?i=java&theme=dark) | [![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)](https://www.java.com/) | 4+ Years | |
+  | ![python](https://skillicons.dev/icons?i=python&theme=dark) | [![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)](https://www.python.org/) | 3+ Years | |
+  | ![c](https://skillicons.dev/icons?i=c&theme=dark) | [![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language)) | 1+ Years | |
+  | ![c++](https://skillicons.dev/icons?i=cpp&theme=dark) | [![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B) | 1+ Years | |
+  | ![markdown](https://skillicons.dev/icons?i=md&theme=dark) | [![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)](https://en.wikipedia.org/wiki/Markdown) | 1+ Years | |
+  | ![fortran](https://skillicons.dev/icons?i=fortran&theme=dark) | [![Fortran](https://img.shields.io/badge/Fortran-white?logo=fortran&logoColor=734f96)](https://fortran-lang.org/) | 1+ Years | |
+  | ![matlab](https://skillicons.dev/icons?i=matlab&theme=dark) | [![MatLab](https://img.shields.io/badge/MatLab-8B4000?logo=assembly&logoColor=white)](https://www.mathworks.com/products/matlab.html) | 1 Year | |
+  | ![android studio](https://skillicons.dev/icons?i=androidstudio&theme=dark) | [![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?logo=android-studio&logoColor=white)](https://developer.android.com/studio) | 1 Year | |
+  | ![mysql](https://skillicons.dev/icons?i=mysql&theme=dark) | [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/) | 1 Year | |
+  | ![postgres](https://skillicons.dev/icons?i=postgres&theme=dark) |  | | |
+  | ![php](https://skillicons.dev/icons?i=php&theme=dark) | [![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)](https://www.php.net/) | < 1 Year | |
+  | ![bash](https://skillicons.dev/icons?i=bash&theme=dark) | [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/) | 1 Year | |
+  | ![powershell](https://skillicons.dev/icons?i=powershell&theme=dark) | [![Powershell](https://img.shields.io/badge/Powershell-5391FE?logo=powershell&logoColor=white)](https://learn.microsoft.com/en-us/powershell/) | 1 Year | |
   | | | | |
+  | | | | |
+
 
 [![Assembly](https://img.shields.io/badge/Assembly-6E4C13?logo=assembly&logoColor=white)](https://en.wikipedia.org/wiki/Assembly_language)
 [![Verilog](https://img.shields.io/badge/Verilog-00008B?logo=verilog&logoColor=green)](https://en.wikipedia.org/wiki/Verilog)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
 [![Less](https://img.shields.io/badge/Less-1D365D?logo=less&logoColor=white)](https://lesscss.org/)
 [![JSON](https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white)](https://www.json.org/)
-[![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)](https://jquery.com/)
 
 
 [![Simple Icons](https://img.shields.io/badge/Simple_Icons-111111?logo=simple-icons&logoColor=white)](https://simpleicons.org/)
@@ -91,7 +105,6 @@
 [![Animate on Scroll](https://img.shields.io/badge/Animate_On_Scroll-3F51B5?logo=github&logoColor=white)](https://michalsnik.github.io/aos/)
 [![Line Awesome](https://img.shields.io/badge/Line_Awesome-1FB141?logo=icons8&logoColor=white)](https://icons8.com/line-awesome)
 [![Font Awesome](https://img.shields.io/badge/Font_Awesome-528DD7?logo=font-awesome&logoColor=white)](https://fontawesome.com/)
-[![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)](https://vercel.com/)
 </details>
 
@@ -101,9 +114,7 @@
 <!--
 ### 📚 Currently Learning / Planning to Learn
 
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=.net&logoColor=white)](https://dotnet.microsoft.com/en-us/)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)](https://www.php.net/)
 [![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apache-kafka&logoColor=white)](https://kafka.apache.org/)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)](https://flutter.dev/)
 [![AngularJS](https://img.shields.io/badge/AngularJS-E23237?logo=angularjs&logoColor=white)](https://angularjs.org/)
@@ -226,7 +237,6 @@
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse-ide&logoColor=white)](https://www.eclipse.org/)
 [![Atom](https://img.shields.io/badge/Atom-66595C?logo=atom&logoColor=white)](https://atom.io/)
-[![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?logo=android-studio&logoColor=white)](https://developer.android.com/studio)
 [![Google Colab](https://img.shields.io/badge/Google_Collab-F9AB00?logo=google-colab&logoColor=white)](https://colab.research.google.com/)
 [![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white)](https://www.office.com/)
 [![Figma](https://img.shields.io/badge/Figma-A259FF?logo=figma&logoColor=white)](https://figma.com)
