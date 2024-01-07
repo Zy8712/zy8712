@@ -1,7 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=24&text=Bryan%20Li&section=header&reversal=false&textBg=false&fontAlign=50&animation=twinkling&desc=Aspiring%20Full-Stack%20Developer%20|%20Recent%20Graduate%20|%20Specialized%20Honours%20in%20Computer%20Science%20(BSc)&fontColor=FFFFFF&fontAlignY=36&descAlignY=60&fontSize=85&descSize=18)
 
-<p width="854px" align="center">
+<!-- ============================================================================================================================== -->
+<!-- ============================================================================================================================== -->
+<!-- ======== SOCIAL ICONS + PROFILE VIEW COUNTER ======== -->
+<!-- ============================================================================================================================== -->
+<!-- ============================================================================================================================== -->
 
+<p width="854px" align="center">
+    
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-li712/)
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/bryan-li712)
@@ -9,7 +15,6 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Zy8712/)
 [![Frontend Mentor](https://img.shields.io/badge/Frontend_Mentor-3F54A3?style=for-the-badge&logo=frontend-mentor&logoColor=white)](https://www.frontendmentor.io/profile/Zy8712)
 [![Personal Portfolio](https://img.shields.io/badge/Personal_Portfolio_Site-ED1C24?style=for-the-badge&logo=dungeonsanddragons&logoColor=white)](https://bryanli.vercel.app/)
-
 <details align="center">
     <summary>Other Socials</summary>
     <br>
@@ -17,10 +22,10 @@
         <img align="center" alt="Bryan Li | FreeCodeCamp" src="https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" />
     </a>
     <a href="https://www.codechef.com/users/zy8712" target="_blank">
-      <img align="center" alt="Bryan Li | CodeChef" src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+        <img align="center" alt="Bryan Li | CodeChef" src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
     </a>
     <a href="https://medium.com/@bryan-li712" target="_blank">
-      <img align="center" alt="Bryan Li | Medium" src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+        <img align="center" alt="Bryan Li | Medium" src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
     </a>
 </details>
 </p>
@@ -28,8 +33,15 @@
 <p align="center">
   <img align="center" class="img" src="https://komarev.com/ghpvc/?username=Bz8712&color=brightgreen&label=Profile+Visits" />
 </p>
+<!-- ============================================================================================================================== -->
+<!-- ============================================================================================================================== -->
+<!-- ============================================================================================================================== -->
 
-
+<!-- ============================================================================================================================== -->
+<!-- ============================================================================================================================== -->
+<!-- ======== PRIMARY SKILLS SECTION (WITHOUT DETAILS & MISSING SOME SKILLS) ======== -->
+<!-- ============================================================================================================================== -->
+<!-- ============================================================================================================================== -->
 ### 🛠 MY SKILLSET
 
 <h4>👨‍💻 Web Development</h4>
@@ -44,8 +56,12 @@
 
 ![skills](https://skillicons.dev/icons?i=github,vscode,figma,vercel,svg,eclipse,atom,git,githubactions,gitlab,netlify,linux&theme=dark)
 
+<!-- ============================================================================================================================== -->
+<!-- ============================================================================================================================== -->
+<!-- ============================================================================================================================== -->
+
 <details>
-  <summary>📜 View More Details & Additional Technologies</summary>
+  <summary>🔍 Click to View More Details & Additional Technologies</summary>
   <h3>Web Development</h3>
   
   | 📷 Icon | 📄 Name | 🗃️ My Experience | 🗂️ Projects Used In | Last Used |
@@ -105,6 +121,12 @@
   | | [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) | | |
   | | [![Figma](https://img.shields.io/badge/Figma-A259FF?logo=figma&logoColor=white)](https://figma.com) | | |
   | | [![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)](https://vercel.com/) | | |
+  | | [![SVGl](https://img.shields.io/badge/SVG-FFB13B?logo=svg&logoColor=black)](https://www.w3.org/Graphics/SVG/) | | |
+  | | [![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse-ide&logoColor=white)](https://www.eclipse.org/) | | |
+  | | [![Atom](https://img.shields.io/badge/Atom-66595C?logo=atom&logoColor=white)](https://atom.io/) | | |
+  | | [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/) | | |
+  | | [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](https://github.com/features/actions) | | |
+  | | | | |
   | | | | |
   | | | | |
 
@@ -123,7 +145,6 @@
 
 
 
-  
 <!--
 ### 📚 Currently Learning / Planning to Learn
 
@@ -135,7 +156,7 @@
 [![Spring Framework](https://img.shields.io/badge/Spring_Framework-6DB33F?logo=spring&logoColor=white)](https://spring.io/)
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)](https://kotlinlang.org/) -->
 
-
+<br>
 <br>
 
 [![An image of @bryanli712's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bryanli712)](https://holopin.io/@bryanli712)
@@ -241,6 +262,7 @@
   <p>Click <a href="https://www.credly.com/users/bryan-li712/badges">here</a> to see the rest of my badges on Credly. Workflow for automated readme badge updates sourced from <a href="https://github.com/pemtajo/badge-readme">here</a>.</p>
   <br>
   
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Zy8712&column=6&margin-w=15&margin-h=15&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
   
 </details>
 
@@ -248,8 +270,6 @@
   <summary>🛠 Favourite Tools, Services and Platforms</summary>
   <br>
   
-[![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse-ide&logoColor=white)](https://www.eclipse.org/)
-[![Atom](https://img.shields.io/badge/Atom-66595C?logo=atom&logoColor=white)](https://atom.io/)
 [![Google Colab](https://img.shields.io/badge/Google_Collab-F9AB00?logo=google-colab&logoColor=white)](https://colab.research.google.com/)
 [![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white)](https://www.office.com/)
 
@@ -260,9 +280,7 @@
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?logo=codewars&logoColor=white)](https://www.codewars.com/)
 [![Frontend Mentor](https://img.shields.io/badge/Frontend_Mentor-3F54A3?logo=frontend-mentor&logoColor=white)](https://www.frontendmentor.io/)
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)](https://about.gitlab.com/)
-[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?logo=github-pages&logoColor=white)](https://pages.github.com/)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](https://github.com/features/actions)
 [![Pexels](https://img.shields.io/badge/Pexels-05A081?logo=pexels&logoColor=white)](https://www.pexels.com/)
 [![Unsplash](https://img.shields.io/badge/Unsplash-000000?logo=unsplash&logoColor=white)](https://unsplash.com/)
 
