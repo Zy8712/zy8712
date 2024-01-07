@@ -62,7 +62,10 @@
 
 <details>
   <summary>🔍 Click to View More Details & Additional Technologies</summary>
-  <h3>Web Development</h3>
+  <br>
+  <details align="center">
+      <summary>Web Development Details & Additional Technologies</summary>
+      <h3 align="left">Web Development</h3>
   
   | 📷 Icon | 📄 Name | 🗃️ My Experience | 🗂️ Projects Used In | Last Used |
   | :----: | :----: | :----------: | :------------: | :-----: |
@@ -88,8 +91,11 @@
   | | | | |
   | | | | |
 
+  </details>    
 
-  <h3>Other / General Purpose Technologies</h3>
+  <details align="center">
+      <summary>General Purpose Tech Details & Additional Technologies</summary>
+      <h3 align="left">Other / General Purpose Technologies</h3>
   
   | 📷 Icon | 📄 Name | 🗃️ My Experience | 🗂️ Projects Used In | Last Used |
   | :----: | :----: | :----------: | :------------: | :-----: |
@@ -102,7 +108,7 @@
   | ![matlab](https://skillicons.dev/icons?i=matlab&theme=dark) | [![MatLab](https://img.shields.io/badge/MatLab-8B4000?logo=assembly&logoColor=white)](https://www.mathworks.com/products/matlab.html) | 1 Year | |
   | ![android studio](https://skillicons.dev/icons?i=androidstudio&theme=dark) | [![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?logo=android-studio&logoColor=white)](https://developer.android.com/studio) | 1 Year | |
   | ![mysql](https://skillicons.dev/icons?i=mysql&theme=dark) | [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/) | 1 Year | |
-  | ![postgres](https://skillicons.dev/icons?i=postgres&theme=dark) |  | | |
+  | ![postgres](https://skillicons.dev/icons?i=postgres&theme=dark) | [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org/) | < 1 Year | |
   | ![php](https://skillicons.dev/icons?i=php&theme=dark) | [![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)](https://www.php.net/) | < 1 Year | |
   | ![bash](https://skillicons.dev/icons?i=bash&theme=dark) | [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/) | 1 Year | |
   | ![powershell](https://skillicons.dev/icons?i=powershell&theme=dark) | [![Powershell](https://img.shields.io/badge/Powershell-5391FE?logo=powershell&logoColor=white)](https://learn.microsoft.com/en-us/powershell/) | 1 Year | |
@@ -113,7 +119,11 @@
   | | | | |
   | | | | |
 
-  <h3>Services & Softwares</h3>
+  </details>
+
+  <details align="center">
+      <summary>Services, Platforms & Softwares Details & Additional Technologies</summary>
+      <h3 align="left">Services, Platforms & Softwares</h3>
   
   | 📷 Icon | 📄 Name | 🗃️ My Experience | 🗂️ Projects Used In | Last Used |
   | :----: | :----: | :----------: | :------------: | :-----: |
@@ -129,6 +139,8 @@
   | | | | |
   | | | | |
   | | | | |
+  
+</details>
 
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
@@ -141,134 +153,6 @@
 [![Animate on Scroll](https://img.shields.io/badge/Animate_On_Scroll-3F51B5?logo=github&logoColor=white)](https://michalsnik.github.io/aos/)
 [![Line Awesome](https://img.shields.io/badge/Line_Awesome-1FB141?logo=icons8&logoColor=white)](https://icons8.com/line-awesome)
 [![Font Awesome](https://img.shields.io/badge/Font_Awesome-528DD7?logo=font-awesome&logoColor=white)](https://fontawesome.com/)
-</details>
-
-
-
-<!--
-### 📚 Currently Learning / Planning to Learn
-
-[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=.net&logoColor=white)](https://dotnet.microsoft.com/en-us/)
-[![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apache-kafka&logoColor=white)](https://kafka.apache.org/)
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)](https://flutter.dev/)
-[![AngularJS](https://img.shields.io/badge/AngularJS-E23237?logo=angularjs&logoColor=white)](https://angularjs.org/)
-[![VueJS](https://img.shields.io/badge/VueJS-4FC08D?logo=vue.js&logoColor=white)](https://vuejs.org/)
-[![Spring Framework](https://img.shields.io/badge/Spring_Framework-6DB33F?logo=spring&logoColor=white)](https://spring.io/)
-[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)](https://kotlinlang.org/) -->
-
-<br>
-<br>
-
-[![An image of @bryanli712's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bryanli712)](https://holopin.io/@bryanli712)
-
-<details>
-  <summary> 📊 Extra GitHub Stats </summary>
-  <br>
-  <div align="center"; style="display: flex; flex-direction: row;">
-    <img alt="My Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=zy8712&theme=tokyonight" alt="mystreak"/>
-    <img alt="Profile Stats" class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zy8712&theme=tokyonight" />
-    <img alt="Language Pie Chart" class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zy8712&theme=tokyonight" />
-    <img alt="Language Percentage Bar Graph" class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zy8712&theme=tokyonight" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zy8712&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&env=PAT_1&theme=dark" /> 
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zy8712&show_icons=true&hide_border=true&layout=compact&langs_count=8&env=PAT_1&theme=dark"/>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/zy8712/zy8712/raw/output/github-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/zy8712/zy8712/raw/output/github-snake.svg">
-      <img alt="snk" src="https://github.com/zy8712/zy8712/raw/output/github-snake.svg">
-    </picture>
-    <img alt="Contributions Profile" src="https://github-readme-activity-graph.vercel.app/graph?username=zy8712&custom_title=Bryan%20Li%27s%20Contribution%20Graph%20%5BLast%2030%20Days%5D&hide_border=true&theme=tokyo-night&bg_color=1d1b1b&color=ffffff&radius=16" />
-    <!-- 
-    <p align="center">
-      <a href="https://github.com/Zy8712">
-        <!-- <img src="https://github-stats-alpha.vercel.app/api?username=Zy8712&cc=010101&tc=37BCF6&ic=fff&bc=0000&count_private=true">
-        <img src="https://github-stats-alpha.vercel.app/api?username=Zy8712&cc=1a1b27&tc=70a5fd&ic=bf91f3&bc=1a1b27&count_private=true">
-      </a>
-    </p>
-    -->
-  </div>
-</details>
-
-<details>
-  <summary> 📈 Extra LeetCode Stats </summary>
-  <br>
-  <p align="center">
-    <a href="https://leetcode.com/Zy8712/" target="_blank">
-      <img title="Zy8712's LeetCode Stats" alt="Zy8712's LeetCode Stats" src="https://leetcard.jacoblin.cool/Zy8712?theme=unicorn&font=Paprika&ext=activity" />
-    </a>
-    <br>
-  </p>
-  <p align="center">
-    <a href="https://leetcode.com/Zy8712/" target="_blank">
-      <img title="Zy8712's LeetCode Stats" alt="Zy8712's LeetCode Stats" src="https://leetcard.jacoblin.cool/Zy8712?theme=unicorn&font=Paprika&ext=heatmap" />
-    </a><br>
-    <a href="https://leetcode.com/Zy8712/" target="_blank">
-      <img title="Zy8712's LeetCode Stats" alt="Zy8712's LeetCode Stats" src="https://leetcode-stats-six.vercel.app/?username=Zy8712&theme=dark">
-    </a>
-  </p>
-</details>
-
-<details>
-  <summary> ⚙️ Ongoing / Recently Completed Projects </summary>
-  <br>
-  <table>
-    <tr><td>Project Name</td><td>Languages & Frameworks</td><td>GitHub Repository</td><td>Start Date</td><td>End Date</td></tr>
-    <tr><td>Personal Portfolio Website Ver.1.0</td><td>HTML, CSS, Javascript</td><td><a href="https://github.com/Zy8712/zy8712.github.io_v1_depreciated"> Link </a></td><td>December 25th, 2022</td><td>December 31st, 2022</td></tr>
-    <tr><td>Kaggle Competition - Titanic - Machine Learning from Disaster</td><td>Python</td><td><a href="https://github.com/Zy8712/Kaggle-Competition-Titanic---Machine-Learning-from-Disaster"> Link </a></td><td>February 24th, 2022</td><td>Ongoing</td></tr>
-    <tr><td>Hunt The Ace</td><td>HTML, CSS, Javascript</td><td><a href="https://github.com/Zy8712/HuntTheAceJSGame"> Link </a></td><td>March 11th, 2023</td><td>March 13th, 2023</td></tr>
-    <tr><td>Snake Game</td><td>Java</td><td><a href="https://github.com/Zy8712/SnakeGame"> Link </a></td><td>Start Date</td><td>N/A</td></tr>
-    <tr><td>Pong Game</td><td>Java</td><td><a href="https://github.com/Zy8712/PongGame"> Link </a></td><td>Start Date</td><td>N/A</td></tr>
-    <tr><td>Tweet Extractor w/OpenAI Implementation</td><td>Python</td><td><a href="https://github.com/Zy8712/Tweet-Extractor-Deal-Hunter"> Link </a></td><td>January 28th, 2023</td><td>January 29th, 2023</td></tr>
-    <tr><td>Planet Blaster Minigame Ver. 1.0</td><td>Javascript, HTML, CSS</td><td><a href="https://github.com/Zy8712/PlanetBlaster"> Link </a></td><td>February 19th, 2023</td><td>March 1st, 2023</td></tr>
-     <tr><td>Planet Blaster Minigame Ver. 2.0</td><td>Javascript, HTML, CSS</td><td><a href="https://github.com/Zy8712/Earth-Defender-Minigame-v2"> Link </a></td><td>March 4th, 2023</td><td>Ongoing</td></tr>
-    <tr><td>Portfolio Site Bootstrap Ver.</td><td>HTML, CSS, Javascript</td><td><a href="https://github.com/Zy8712/Portfolio-Site-Written-in-Bootstrap"> Link </a></td><td>March 1st, 2023</td><td>N/A</td></tr>
-    <tr><td>Tic Tac Toe.</td><td>Java</td><td> Link </td><td>March 14th, 2023</td><td>N/A</td></tr>
-    <tr><td>Movie Catalogue Created with ReactJS</td><td>HTML, CSS, Javascript, ReactJS</td><td><a href="https://github.com/Zy8712/react-app-practice-movie-catalogue">Link</a></td><td>March 15th, 2023</td><td>March 15th, 2023</td></tr>
-    <tr><td>Todo-List Created with ReactJS</td><td>HTML, CSS, Javascript, ReactJS</td><td><a href="https://github.com/Zy8712/react-app-to-do-list">Link</a> </td><td>March 16th, 2023</td><td>March 16th, 2023</td></tr>
-    <tr><td>Personal Portfolio Website Ver.2.0</td><td>HTML, CSS, Javascript, Bootstrap, AOS, Highcharts</td><td><a href="https://github.com/Zy8712/zy8712.github.io"> Link </a></td><td>March 15th, 2023</td><td>Ongoing</td></tr>
-  </table>
-</details>
-
-<details>
-  <summary> ⌨️ Coding Practice </summary>
-  <br>
-  <table>
-    <tr><td>Project Name</td><td>Languages & Frameworks</td><td>GitHub Repository</td><td>Start Date</td><td>End Date</td></tr>
-    <tr><td>LeetCode Practice</td><td>Java, Python</td><td><a href="https://github.com/Zy8712/LeetCode-Practice"> Link </a></td><td>Nov 2022</td><td>N/A</td></tr>
-    <tr><td>HTML-CSS-Javascript Warmup</td><td>HTML, CSS, Javascript</td><td><a href="https://github.com/Zy8712/HTML-CSS-Javascript-Warmup"> Link </a></td><td>Oct 2022</td><td>N/A</td></tr>
-    <tr><td>CodeChef Practice</td><td>Java, Python</td><td><a href="https://github.com/Zy8712/CodeChef-Practice"> Link </a></td><td>Dec 2022</td><td>N/A</td></tr>
-    <tr><td>Frontend Mentor Practice</td><td>HTML, CSS, Javascript</td><td><a href="https://github.com/Zy8712/frontend-mentor-practice"> Link </a></td><td>May 2022</td><td>N/A</td></tr>
-  </table>
-</details>
-
-<details>
-  <summary> 🎖️ Licenses, Certifications, Credentials, Badges & Pins 🏆 </summary>
-  <br>
-  
-<!--START_SECTION:badges-->
-[![Big Data Foundations - Level 1](https://images.credly.com/size/110x110/images/16d5a420-770b-4699-97ec-46708e3680c5/Big_Data_Found_Level_1_-_CC_-_2019.png)](http://www.credly.com/badges/4c43a48a-c201-43c4-b9c4-38ba22b7341e "Big Data Foundations - Level 1")
-[![Data Science Tools](https://images.credly.com/size/110x110/images/de9471ce-018c-4bf4-af49-5c9c1d488613/Data_Science_Tools.png)](http://www.credly.com/badges/9c3065c2-3b6f-4a2d-b7c3-5cf351731027 "Data Science Tools")
-[![Working in a Digital World: Professional Skills](https://images.credly.com/size/110x110/images/4f76c627-c180-49ae-a5a0-742885eef581/Working_in_a_Digital_World-_Professional_Skills.png)](http://www.credly.com/badges/cd13559a-acff-4445-94e3-1d12f248b510 "Working in a Digital World: Professional Skills")
-[![Explore Emerging Tech](https://images.credly.com/size/110x110/images/c6f4a830-11d9-46ba-a061-8ac2e5a099e9/Explore_Emerging_Tech.png)](http://www.credly.com/badges/9ded8546-7222-4a8e-b63f-d4b412435550 "Explore Emerging Tech")
-[![Job Application Essentials](https://images.credly.com/size/110x110/images/7ae738cc-d7af-45fd-ad53-3e21666cdeca/Job_Application_Essentials.png)](http://www.credly.com/badges/c2792244-818d-4d5e-bcef-4acd736c04dd "Job Application Essentials")
-[![Project Management Fundamentals](https://images.credly.com/size/110x110/images/15977e21-6a48-4c41-ac31-16883188a049/SkillsBuild_ProjectManagementFundamentals_Badge.png)](http://www.credly.com/badges/ccae432f-a826-4b84-8ffd-3dc3540f87a9 "Project Management Fundamentals")
-[![SkillsBuild - Customer Engagement: Communication and Personality Dynamics](https://images.credly.com/size/110x110/images/590b167d-83f8-4a54-b83d-fcb9b5200c88/Customer_Engagement-_Communication_and_Personality_Dynamics.png)](http://www.credly.com/badges/c9841af5-538a-4510-ae1e-ad55fe318877 "SkillsBuild - Customer Engagement: Communication and Personality Dynamics")
-[![Agile Explorer](https://images.credly.com/size/110x110/images/3b7846e2-bdbd-4ed6-8543-182f47502190/image.png)](http://www.credly.com/badges/6bec94a9-a708-4308-be75-d64c68e5731b "Agile Explorer")
-[![SkillsBuild - Customer Engagement: Problem Solving and Process Controls](https://images.credly.com/size/110x110/images/351a77ac-8c57-4dde-b479-6fa153ed6ce7/Customer_Engagement-_Problem_Solving_and_Process_Controls.png)](http://www.credly.com/badges/e67ccf9c-5294-4ef4-b2bc-a0c289beb30f "SkillsBuild - Customer Engagement: Problem Solving and Process Controls")
-[![Explorations into Mindfulness](https://images.credly.com/size/110x110/images/6599523a-e811-4775-b037-c4c1417b0b4e/Explorations_into_Mindfulness.png)](http://www.credly.com/badges/20a9d500-52a4-4169-9b51-7705f243e209 "Explorations into Mindfulness")
-[![Web Development Fundamentals](https://images.credly.com/size/110x110/images/0c1c6eed-818c-4f78-bfaa-7ea8704c863a/image.png)](http://www.credly.com/badges/729cdb3d-f128-4956-9706-3fb55d6e04fa "Web Development Fundamentals")
-[![Foundations in Effective Mentoring](https://images.credly.com/size/110x110/images/ab2a4d4b-8f72-4029-92a6-67285936982f/image.png)](http://www.credly.com/badges/91f09e8c-691f-4c51-96d6-2bb04ea2b903 "Foundations in Effective Mentoring")
-<!--END_SECTION:badges-->
-
-  <p>Click <a href="https://www.credly.com/users/bryan-li712/badges">here</a> to see the rest of my badges on Credly. Workflow for automated readme badge updates sourced from <a href="https://github.com/pemtajo/badge-readme">here</a>.</p>
-  <br>
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Zy8712&column=6&margin-w=15&margin-h=15&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
-  
-</details>
-
-<details>
-  <summary>🛠 Favourite Tools, Services and Platforms</summary>
-  <br>
   
 [![Google Colab](https://img.shields.io/badge/Google_Collab-F9AB00?logo=google-colab&logoColor=white)](https://colab.research.google.com/)
 [![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white)](https://www.office.com/)
@@ -314,6 +198,104 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?      font=&weight=800&size=32&duration=3000&pause=1000&center=true&random=false&width=600&lines=Hi%2C+I'm+Bryan+Li!!!;I'm+a...;Specialized+Honours+Graduate;Aspiring+Full+Stack+Web+Developer" alt="Typing SVG" /></a>
 
+</details>
+
+
+
+<!--
+### 📚 Currently Learning / Planning to Learn
+
+[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=.net&logoColor=white)](https://dotnet.microsoft.com/en-us/)
+[![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apache-kafka&logoColor=white)](https://kafka.apache.org/)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)](https://flutter.dev/)
+[![AngularJS](https://img.shields.io/badge/AngularJS-E23237?logo=angularjs&logoColor=white)](https://angularjs.org/)
+[![VueJS](https://img.shields.io/badge/VueJS-4FC08D?logo=vue.js&logoColor=white)](https://vuejs.org/)
+[![Spring Framework](https://img.shields.io/badge/Spring_Framework-6DB33F?logo=spring&logoColor=white)](https://spring.io/)
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)](https://kotlinlang.org/) -->
+
+<br>
+<br>
+
+<!-- ============================================================================================================================== -->
+<!-- ============================================================================================================================== -->
+<!-- ======== BADGES, PINS, CERTIFICATES, CREDENTIALS, ETC SECTION ======== -->
+<!-- ============================================================================================================================== -->
+<!-- ============================================================================================================================== -->
+[![An image of @bryanli712's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bryanli712)](https://holopin.io/@bryanli712)
+<details align="center">
+  <summary> 🔍 Click to see more: Certifications, Credentials, Badges & Pins 🎖️🏆 </summary>
+  <br>
+
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Zy8712&column=6&margin-w=15&margin-h=15&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+  <br>
+  <br>
+<!--START_SECTION:badges-->
+[![Big Data Foundations - Level 1](https://images.credly.com/size/110x110/images/16d5a420-770b-4699-97ec-46708e3680c5/Big_Data_Found_Level_1_-_CC_-_2019.png)](http://www.credly.com/badges/4c43a48a-c201-43c4-b9c4-38ba22b7341e "Big Data Foundations - Level 1")
+[![Data Science Tools](https://images.credly.com/size/110x110/images/de9471ce-018c-4bf4-af49-5c9c1d488613/Data_Science_Tools.png)](http://www.credly.com/badges/9c3065c2-3b6f-4a2d-b7c3-5cf351731027 "Data Science Tools")
+[![Working in a Digital World: Professional Skills](https://images.credly.com/size/110x110/images/4f76c627-c180-49ae-a5a0-742885eef581/Working_in_a_Digital_World-_Professional_Skills.png)](http://www.credly.com/badges/cd13559a-acff-4445-94e3-1d12f248b510 "Working in a Digital World: Professional Skills")
+[![Explore Emerging Tech](https://images.credly.com/size/110x110/images/c6f4a830-11d9-46ba-a061-8ac2e5a099e9/Explore_Emerging_Tech.png)](http://www.credly.com/badges/9ded8546-7222-4a8e-b63f-d4b412435550 "Explore Emerging Tech")
+[![Job Application Essentials](https://images.credly.com/size/110x110/images/7ae738cc-d7af-45fd-ad53-3e21666cdeca/Job_Application_Essentials.png)](http://www.credly.com/badges/c2792244-818d-4d5e-bcef-4acd736c04dd "Job Application Essentials")
+[![Project Management Fundamentals](https://images.credly.com/size/110x110/images/15977e21-6a48-4c41-ac31-16883188a049/SkillsBuild_ProjectManagementFundamentals_Badge.png)](http://www.credly.com/badges/ccae432f-a826-4b84-8ffd-3dc3540f87a9 "Project Management Fundamentals")
+[![SkillsBuild - Customer Engagement: Communication and Personality Dynamics](https://images.credly.com/size/110x110/images/590b167d-83f8-4a54-b83d-fcb9b5200c88/Customer_Engagement-_Communication_and_Personality_Dynamics.png)](http://www.credly.com/badges/c9841af5-538a-4510-ae1e-ad55fe318877 "SkillsBuild - Customer Engagement: Communication and Personality Dynamics")
+[![Agile Explorer](https://images.credly.com/size/110x110/images/3b7846e2-bdbd-4ed6-8543-182f47502190/image.png)](http://www.credly.com/badges/6bec94a9-a708-4308-be75-d64c68e5731b "Agile Explorer")
+[![SkillsBuild - Customer Engagement: Problem Solving and Process Controls](https://images.credly.com/size/110x110/images/351a77ac-8c57-4dde-b479-6fa153ed6ce7/Customer_Engagement-_Problem_Solving_and_Process_Controls.png)](http://www.credly.com/badges/e67ccf9c-5294-4ef4-b2bc-a0c289beb30f "SkillsBuild - Customer Engagement: Problem Solving and Process Controls")
+[![Explorations into Mindfulness](https://images.credly.com/size/110x110/images/6599523a-e811-4775-b037-c4c1417b0b4e/Explorations_into_Mindfulness.png)](http://www.credly.com/badges/20a9d500-52a4-4169-9b51-7705f243e209 "Explorations into Mindfulness")
+[![Web Development Fundamentals](https://images.credly.com/size/110x110/images/0c1c6eed-818c-4f78-bfaa-7ea8704c863a/image.png)](http://www.credly.com/badges/729cdb3d-f128-4956-9706-3fb55d6e04fa "Web Development Fundamentals")
+[![Foundations in Effective Mentoring](https://images.credly.com/size/110x110/images/ab2a4d4b-8f72-4029-92a6-67285936982f/image.png)](http://www.credly.com/badges/91f09e8c-691f-4c51-96d6-2bb04ea2b903 "Foundations in Effective Mentoring")
+<!--END_SECTION:badges-->
+  <p>
+    Click <a href="https://www.credly.com/users/bryan-li712/badges">here</a> to see the rest of my badges on Credly. Workflow for automated readme badge updates sourced from <a href="https://github.com/pemtajo/badge-readme">here</a>.
+  </p>    
+</details>
+<br>
+<!-- ============================================================================================================================== -->
+<!-- ============================================================================================================================== -->
+<!-- ============================================================================================================================== -->
+
+<details>
+  <summary> 📊 Extra GitHub Stats </summary>
+  <br>
+  <div align="center"; style="display: flex; flex-direction: row;">
+    <img alt="My Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=zy8712&theme=tokyonight" alt="mystreak"/>
+    <img alt="Profile Stats" class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zy8712&theme=tokyonight" />
+    <img alt="Language Pie Chart" class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zy8712&theme=tokyonight" />
+    <img alt="Language Percentage Bar Graph" class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zy8712&theme=tokyonight" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zy8712&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&env=PAT_1&theme=dark" /> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zy8712&show_icons=true&hide_border=true&layout=compact&langs_count=8&env=PAT_1&theme=dark"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/zy8712/zy8712/raw/output/github-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/zy8712/zy8712/raw/output/github-snake.svg">
+      <img alt="snk" src="https://github.com/zy8712/zy8712/raw/output/github-snake.svg">
+    </picture>
+    <img alt="Contributions Profile" src="https://github-readme-activity-graph.vercel.app/graph?username=zy8712&custom_title=Bryan%20Li%27s%20Contribution%20Graph%20%5BLast%2030%20Days%5D&hide_border=true&theme=tokyo-night&bg_color=1d1b1b&color=ffffff&radius=16" />
+    <!-- 
+    <p align="center">
+      <a href="https://github.com/Zy8712">
+        <!-- <img src="https://github-stats-alpha.vercel.app/api?username=Zy8712&cc=010101&tc=37BCF6&ic=fff&bc=0000&count_private=true">
+        <img src="https://github-stats-alpha.vercel.app/api?username=Zy8712&cc=1a1b27&tc=70a5fd&ic=bf91f3&bc=1a1b27&count_private=true">
+      </a>
+    </p>
+    -->
+  </div>
+</details>
+
+<details>
+  <summary> 📈 Extra LeetCode Stats </summary>
+  <br>
+  <p align="center">
+    <a href="https://leetcode.com/Zy8712/" target="_blank">
+      <img title="Zy8712's LeetCode Stats" alt="Zy8712's LeetCode Stats" src="https://leetcard.jacoblin.cool/Zy8712?theme=unicorn&font=Paprika&ext=activity" />
+    </a>
+    <br>
+  </p>
+  <p align="center">
+    <a href="https://leetcode.com/Zy8712/" target="_blank">
+      <img title="Zy8712's LeetCode Stats" alt="Zy8712's LeetCode Stats" src="https://leetcard.jacoblin.cool/Zy8712?theme=unicorn&font=Paprika&ext=heatmap" />
+    </a><br>
+    <a href="https://leetcode.com/Zy8712/" target="_blank">
+      <img title="Zy8712's LeetCode Stats" alt="Zy8712's LeetCode Stats" src="https://leetcode-stats-six.vercel.app/?username=Zy8712&theme=dark">
+    </a>
+  </p>
 </details>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=24&section=footer&reversal=false&textBg=false&fontAlign=50&animation=twinkling&fontAlignY=36&descAlignY=60&descSize=20)
