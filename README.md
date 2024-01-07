@@ -7,7 +7,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zy8712)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Zy8712/)
 [![Frontend Mentor](https://img.shields.io/badge/Frontend_Mentor-3F54A3?style=for-the-badge&logo=frontend-mentor&logoColor=white)](https://www.frontendmentor.io/profile/Zy8712)
-[![Personal Portfolio](https://img.shields.io/badge/Personal_Portfolio_Site✨-ED1C24?style=for-the-badge&logo=dungeonsanddragons&logoColor=white)](https://bryanli.vercel.app/)
+[![Personal Portfolio](https://img.shields.io/badge/Personal_Portfolio_Site-ED1C24?style=for-the-badge&logo=dungeonsanddragons&logoColor=white)](https://bryanli.vercel.app/)
 
 <details align="center">
     <summary>Other Socials</summary>
@@ -39,9 +39,9 @@
 
 ![skills](https://skillicons.dev/icons?i=java,py,c,cpp,md,fortran,matlab,androidstudio,mysql,postgres,php,bash,powershell&theme=dark)
 
-<h4>🖥️ Services & Softwares</h4>
+<h4>🖥️ Services, Platforms & Softwares</h4>
 
-![skills](https://skillicons.dev/icons?i=github,vscode,figma,vercel,svg,atom,git,githubactions,netlify,linux&theme=dark)
+![skills](https://skillicons.dev/icons?i=github,vscode,figma,vercel,svg,eclipse,atom,git,githubactions,gitlab,netlify,linux&theme=dark)
 
 <details>
   <summary>📜 View More Details & Additional Technologies</summary>
@@ -62,11 +62,13 @@
   | ![redux](https://skillicons.dev/icons?i=redux&theme=dark) | [![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)](https://redux.js.org/) | | |
   | ![jquery](https://skillicons.dev/icons?i=jquery&theme=dark) | [![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)](https://jquery.com/) | | |
   | ![vite](https://skillicons.dev/icons?i=vite&theme=dark) | [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/) | 1+ Years | |
-  | ![vitest](https://skillicons.dev/icons?i=vitest&theme=dark) | | | |
-  | ![jest](https://skillicons.dev/icons?i=jest&theme=dark) | | | |
-  | ![materialui](https://skillicons.dev/icons?i=materialui&theme=dark) | | | |
-  | ![styledcomponents](https://skillicons.dev/icons?i=styledcomponents&theme=dark) | | | |
-  | ![regex](https://skillicons.dev/icons?i=regex&theme=dark) | | | |
+  | ![vitest](https://skillicons.dev/icons?i=vitest&theme=dark) | [![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white)](https://vitest.dev/) | < 1 Year | |
+  | ![jest](https://skillicons.dev/icons?i=jest&theme=dark) | [![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)](https://jestjs.io/) | < 1 Year | |
+  | ![materialui](https://skillicons.dev/icons?i=materialui&theme=dark) | [![MaterialUI](https://img.shields.io/badge/Material_UI-007FFF?logo=mui&logoColor=white)](https://mui.com/) | < 1 Year | |
+  | ![styledcomponents](https://skillicons.dev/icons?i=styledcomponents&theme=dark) | [![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?logo=styledcomponents&logoColor=white)](https://www.styled-components.com/) | < 1 Year | |
+  | ![regex](https://skillicons.dev/icons?i=regex&theme=dark) | [![Regular Expressions](https://img.shields.io/badge/Regex-3366cc?logo=regex&logoColor=white)](https://regexr.com/) | 3+ Years | |
+  | | | | |
+  | | | | |
   | | | | |
 
 
@@ -87,12 +89,24 @@
   | ![php](https://skillicons.dev/icons?i=php&theme=dark) | [![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)](https://www.php.net/) | < 1 Year | |
   | ![bash](https://skillicons.dev/icons?i=bash&theme=dark) | [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/) | 1 Year | |
   | ![powershell](https://skillicons.dev/icons?i=powershell&theme=dark) | [![Powershell](https://img.shields.io/badge/Powershell-5391FE?logo=powershell&logoColor=white)](https://learn.microsoft.com/en-us/powershell/) | 1 Year | |
+  | | [![Assembly](https://img.shields.io/badge/Assembly-6E4C13?logo=assembly&logoColor=white)](https://en.wikipedia.org/wiki/Assembly_language) | | |
+  | | [![Verilog](https://img.shields.io/badge/Verilog-00008B?logo=verilog&logoColor=green)](https://en.wikipedia.org/wiki/Verilog) | | |
+  | | | | |
+  | | | | |
   | | | | |
   | | | | |
 
+  <h3>Services & Softwares</h3>
+  
+  | 📷 Icon | 📄 Name | 🗃️ My Experience | 🗂️ Projects Used In | Last Used |
+  | :----: | :----: | :----------: | :------------: | :-----: |
+  | | [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/) | | |
+  | | [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) | | |
+  | | [![Figma](https://img.shields.io/badge/Figma-A259FF?logo=figma&logoColor=white)](https://figma.com) | | |
+  | | [![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)](https://vercel.com/) | | |
+  | | | | |
+  | | | | |
 
-[![Assembly](https://img.shields.io/badge/Assembly-6E4C13?logo=assembly&logoColor=white)](https://en.wikipedia.org/wiki/Assembly_language)
-[![Verilog](https://img.shields.io/badge/Verilog-00008B?logo=verilog&logoColor=green)](https://en.wikipedia.org/wiki/Verilog)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
 [![Less](https://img.shields.io/badge/Less-1D365D?logo=less&logoColor=white)](https://lesscss.org/)
@@ -104,7 +118,6 @@
 [![Animate on Scroll](https://img.shields.io/badge/Animate_On_Scroll-3F51B5?logo=github&logoColor=white)](https://michalsnik.github.io/aos/)
 [![Line Awesome](https://img.shields.io/badge/Line_Awesome-1FB141?logo=icons8&logoColor=white)](https://icons8.com/line-awesome)
 [![Font Awesome](https://img.shields.io/badge/Font_Awesome-528DD7?logo=font-awesome&logoColor=white)](https://fontawesome.com/)
-[![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)](https://vercel.com/)
 </details>
 
 
@@ -123,12 +136,8 @@
 
 
 <br>
-<p align="center">
- <a href="https://leetcode.com/Zy8712/" target="_blank">
-    <img title="Zy8712's LeetCode Stats" alt="Zy8712's LeetCode Stats" src="https://leetcard.jacoblin.cool/Zy8712?theme=unicorn&font=Paprika&ext=activity" />
-  </a>
-  <br>
-</p>
+
+[![An image of @bryanli712's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bryanli712)](https://holopin.io/@bryanli712)
 
 <details>
   <summary> 📊 Extra GitHub Stats </summary>
@@ -160,6 +169,12 @@
 <details>
   <summary> 📈 Extra LeetCode Stats </summary>
   <br>
+  <p align="center">
+    <a href="https://leetcode.com/Zy8712/" target="_blank">
+      <img title="Zy8712's LeetCode Stats" alt="Zy8712's LeetCode Stats" src="https://leetcard.jacoblin.cool/Zy8712?theme=unicorn&font=Paprika&ext=activity" />
+    </a>
+    <br>
+  </p>
   <p align="center">
     <a href="https://leetcode.com/Zy8712/" target="_blank">
       <img title="Zy8712's LeetCode Stats" alt="Zy8712's LeetCode Stats" src="https://leetcard.jacoblin.cool/Zy8712?theme=unicorn&font=Paprika&ext=heatmap" />
@@ -225,7 +240,6 @@
   <p>Click <a href="https://www.credly.com/users/bryan-li712/badges">here</a> to see the rest of my badges on Credly. Workflow for automated readme badge updates sourced from <a href="https://github.com/pemtajo/badge-readme">here</a>.</p>
   <br>
   
-  [![An image of @bryanli712's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bryanli712)](https://holopin.io/@bryanli712)
   
 </details>
 
@@ -233,14 +247,11 @@
   <summary>🛠 Favourite Tools, Services and Platforms</summary>
   <br>
   
-[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse-ide&logoColor=white)](https://www.eclipse.org/)
 [![Atom](https://img.shields.io/badge/Atom-66595C?logo=atom&logoColor=white)](https://atom.io/)
 [![Google Colab](https://img.shields.io/badge/Google_Collab-F9AB00?logo=google-colab&logoColor=white)](https://colab.research.google.com/)
 [![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white)](https://www.office.com/)
-[![Figma](https://img.shields.io/badge/Figma-A259FF?logo=figma&logoColor=white)](https://figma.com)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white)](https://www.codechef.com/)
