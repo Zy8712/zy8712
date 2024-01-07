@@ -1,13 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=24&text=Bryan%20Li&section=header&reversal=false&textBg=false&fontAlign=50&animation=twinkling&desc=Aspiring%20Full-Stack%20Developer%20|%20Recent%20Graduate%20|%20Specialized%20Honours%20in%20Computer%20Science%20(BSc)&fontColor=FFFFFF&fontAlignY=36&descAlignY=60&fontSize=85&descSize=18)
 
-<p align="center">
+<p width="854px" align="center">
         
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-li712/)
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/bryan-li712)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zy8712)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Zy8712/)
 [![Frontend Mentor](https://img.shields.io/badge/Frontend_Mentor-3F54A3?style=for-the-badge&logo=frontend-mentor&logoColor=white)](https://www.frontendmentor.io/profile/Zy8712)
-[![Personal Portfolio](https://img.shields.io/badge/Personal_Portfolio_Site-ED1C24?style=for-the-badge&logo=dungeonsanddragons&logoColor=white)](https://bryanli.vercel.app/)
+[![Personal Portfolio](https://img.shields.io/badge/Personal_Portfolio_Site✨-ED1C24?style=for-the-badge&logo=dungeonsanddragons&logoColor=white)](https://bryanli.vercel.app/)
 
 <details align="center">
     <summary>Other Socials</summary>
