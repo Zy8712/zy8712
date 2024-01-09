@@ -5,8 +5,7 @@
 <!-- ======== SOCIAL ICONS + PROFILE VIEW COUNTER ======== -->
 <!-- ============================================================================================================================== -->
 <!-- ============================================================================================================================== -->
-
-<p width="854px" align="center">
+<div align="center">
     
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-li712/)
@@ -15,24 +14,20 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Zy8712/)
 [![Frontend Mentor](https://img.shields.io/badge/Frontend_Mentor-3F54A3?style=for-the-badge&logo=frontend-mentor&logoColor=white)](https://www.frontendmentor.io/profile/Zy8712)
 [![Personal Portfolio](https://img.shields.io/badge/Personal_Portfolio_Site-ED1C24?style=for-the-badge&logo=dungeonsanddragons&logoColor=white)](https://bryanli.vercel.app/)
-<details align="center">
-    <summary>Other Socials</summary>
-    <br>
-    <a href="https://www.freecodecamp.org/bryan-li712" target="_blank">
-        <img align="center" alt="Bryan Li | FreeCodeCamp" src="https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" />
-    </a>
-    <a href="https://www.codechef.com/users/zy8712" target="_blank">
-        <img align="center" alt="Bryan Li | CodeChef" src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-    </a>
-    <a href="https://medium.com/@bryan-li712" target="_blank">
-        <img align="center" alt="Bryan Li | Medium" src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
-    </a>
-</details>
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img align="center" class="img" src="https://komarev.com/ghpvc/?username=Bz8712&color=brightgreen&label=Profile+Visits" />
-</p>
+</div>
+
+<details align="center">
+    <summary><sub><sup>MY OTHER SOCIALS</sup></sub></summary>
+    
+[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/bryan-li712)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/zy8712)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bryan-li712)
+</details>
+
 <!-- ============================================================================================================================== -->
 <!-- ============================================================================================================================== -->
 <!-- ============================================================================================================================== -->
@@ -194,13 +189,22 @@
 ```
 
 
-<img src="./assets/saturn-v-space.gif" alt="astronaut_rocket_gif" style="width: 300px;" >
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=800&size=32&duration=3000&pause=1000&center=true&random=false&width=600&lines=Hi%2C+I'm+Bryan+Li!!!;I'm+a...;Specialized+Honours+Graduate;Aspiring+Full+Stack+Web+Developer" alt="Typing SVG" /></a>
 
 </details>
+<br>
 
+<img src="./assets/saturn-v-space.gif" alt="astronaut_rocket_gif" style="width: 400px;" align="right" >
 
+### 🗺️ PLANS & GOALS
+- 🐉 Continue to further develop my React & NextJS skills
+- 🚀 Expand my horizons. Learn new technologies I haven't used before such as: MongoDB, Vue, Svelte, and Angular
+- 🏗️ Build more Frontend projects, eventually building Full-Stack ones
+- 🧪 Experiment with new libraries & tools
+- 📰 Write interesting/helpful articles on Medium
+- 📊 Practice Data Mining, Data Analytics, Machine Learning & AI development skills
+- 🔎 Improve my SEO, Accessibility, and SSR skills
+- 🐐 Code more Frontend Mentor projects & provide help more people on the platform
 
 <!--
 ### 📚 Currently Learning / Planning to Learn
@@ -300,4 +304,12 @@
   </p>
 </details>
 
+<!--
+<details>
+    <summary>P</summary>
+    <br>
+    
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zy8712&repo=audiophile-ecommerce-website&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+</details>
+-->
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=24&section=footer&reversal=false&textBg=false&fontAlign=50&animation=twinkling&fontAlignY=36&descAlignY=60&descSize=20)
