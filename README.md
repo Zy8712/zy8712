@@ -188,6 +188,16 @@
                    Full Stack Web Developer | Recent Graduate | Specialized Honours in Computer Science (BSc)
 ```
 
+<!--
+### 📚 Currently Learning / Planning to Learn
+
+[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=.net&logoColor=white)](https://dotnet.microsoft.com/en-us/)
+[![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apache-kafka&logoColor=white)](https://kafka.apache.org/)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)](https://flutter.dev/)
+[![AngularJS](https://img.shields.io/badge/AngularJS-E23237?logo=angularjs&logoColor=white)](https://angularjs.org/)
+[![VueJS](https://img.shields.io/badge/VueJS-4FC08D?logo=vue.js&logoColor=white)](https://vuejs.org/)
+[![Spring Framework](https://img.shields.io/badge/Spring_Framework-6DB33F?logo=spring&logoColor=white)](https://spring.io/)
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)](https://kotlinlang.org/) -->
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=800&size=32&duration=3000&pause=1000&center=true&random=false&width=600&lines=Hi%2C+I'm+Bryan+Li!!!;I'm+a...;Specialized+Honours+Graduate;Aspiring+Full+Stack+Web+Developer" alt="Typing SVG" /></a>
 
@@ -206,18 +216,6 @@
 - 🔎 Improve my SEO, Accessibility, and SSR skills
 - 🐐 Code more Frontend Mentor projects & provide help more people on the platform
 
-<!--
-### 📚 Currently Learning / Planning to Learn
-
-[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=.net&logoColor=white)](https://dotnet.microsoft.com/en-us/)
-[![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apache-kafka&logoColor=white)](https://kafka.apache.org/)
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)](https://flutter.dev/)
-[![AngularJS](https://img.shields.io/badge/AngularJS-E23237?logo=angularjs&logoColor=white)](https://angularjs.org/)
-[![VueJS](https://img.shields.io/badge/VueJS-4FC08D?logo=vue.js&logoColor=white)](https://vuejs.org/)
-[![Spring Framework](https://img.shields.io/badge/Spring_Framework-6DB33F?logo=spring&logoColor=white)](https://spring.io/)
-[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)](https://kotlinlang.org/) -->
-
-<br>
 <br>
 
 <!-- ============================================================================================================================== -->
