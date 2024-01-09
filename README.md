@@ -202,7 +202,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=800&size=32&duration=3000&pause=1000&center=true&random=false&width=600&lines=Hi%2C+I'm+Bryan+Li!!!;I'm+a...;Specialized+Honours+Graduate;Aspiring+Full+Stack+Web+Developer" alt="Typing SVG" /></a>
 
 </details>
-<br>
+
 
 <img src="./assets/saturn-v-space.gif" alt="astronaut_rocket_gif" style="width: 400px;" align="right" >
 
