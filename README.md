@@ -82,9 +82,14 @@
   | ![materialui](https://skillicons.dev/icons?i=materialui&theme=dark) | [![MaterialUI](https://img.shields.io/badge/Material_UI-007FFF?logo=mui&logoColor=white)](https://mui.com/) | < 1 Year | |
   | ![styledcomponents](https://skillicons.dev/icons?i=styledcomponents&theme=dark) | [![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?logo=styledcomponents&logoColor=white)](https://www.styled-components.com/) | < 1 Year | |
   | ![regex](https://skillicons.dev/icons?i=regex&theme=dark) | [![Regular Expressions](https://img.shields.io/badge/Regex-3366cc?logo=regex&logoColor=white)](https://regexr.com/) | 3+ Years | |
+  | | [![Less](https://img.shields.io/badge/Less-1D365D?logo=less&logoColor=white)](https://lesscss.org/) | | |
+  | | [![Animate on Scroll](https://img.shields.io/badge/Animate_On_Scroll-3F51B5?logo=github&logoColor=white)](https://michalsnik.github.io/aos/) | | |
+  | | [![Line Awesome](https://img.shields.io/badge/Line_Awesome-1FB141?logo=icons8&logoColor=white)](https://icons8.com/line-awesome) | | |
+  | | [![Font Awesome](https://img.shields.io/badge/Font_Awesome-528DD7?logo=font-awesome&logoColor=white)](https://fontawesome.com/) | | |
   | | | | |
-  | | | | |
-  | | | | |
+  | | [![VueJS](https://img.shields.io/badge/VueJS-4FC08D?logo=vue.js&logoColor=white)](https://vuejs.org/) | | |
+  | | [![AngularJS](https://img.shields.io/badge/AngularJS-E23237?logo=angularjs&logoColor=white)](https://angularjs.org/) | | |
+
 
   </details>    
 
@@ -109,6 +114,9 @@
   | ![powershell](https://skillicons.dev/icons?i=powershell&theme=dark) | [![Powershell](https://img.shields.io/badge/Powershell-5391FE?logo=powershell&logoColor=white)](https://learn.microsoft.com/en-us/powershell/) | 1 Year | |
   | | [![Assembly](https://img.shields.io/badge/Assembly-6E4C13?logo=assembly&logoColor=white)](https://en.wikipedia.org/wiki/Assembly_language) | | |
   | | [![Verilog](https://img.shields.io/badge/Verilog-00008B?logo=verilog&logoColor=green)](https://en.wikipedia.org/wiki/Verilog) | | |
+  | | [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/) | | |
+  | | [![JSON](https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white)](https://www.json.org/) | | |
+  | | | | |
   | | | | |
   | | | | |
   | | | | |
@@ -131,75 +139,37 @@
   | | [![Atom](https://img.shields.io/badge/Atom-66595C?logo=atom&logoColor=white)](https://atom.io/) | | |
   | | [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/) | | |
   | | [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](https://github.com/features/actions) | | |
+  | | [![Google Colab](https://img.shields.io/badge/Google_Collab-F9AB00?logo=google-colab&logoColor=white)](https://colab.research.google.com/) | | |
+  | | [![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white)](https://www.office.com/) | | |
+  | | [![Google Fonts](https://img.shields.io/badge/Google_Fonts-4285F4?logo=google-fonts&logoColor=white)](https://fonts.google.com/) | | |
+  | | [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)](https://about.gitlab.com/) | | |
+  | | [![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?logo=github-pages&logoColor=white)](https://pages.github.com/) | | |
   | | | | |
+  | | [![Unsplash](https://img.shields.io/badge/Unsplash-000000?logo=unsplash&logoColor=white)](https://unsplash.com/) | | |
+  | | [![Pexels](https://img.shields.io/badge/Pexels-05A081?logo=pexels&logoColor=white)](https://www.pexels.com/) | | |
+  | | [![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)](https://www.microsoft.com/en-ca/windows) | | |
+  | | [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://www.linux.org/) | | |
+  | | [![macOS](https://img.shields.io/badge/macOS-000000?logo=macos&logoColor=white)](https://en.wikipedia.org/wiki/MacOS) | | |
+  | | [![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?logo=windows-terminal&logoColor=white)](https://www.microsoft.com/store/apps/9n0dx20hk701) | | |
+  | | [![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?logo=microsoft-teams&logoColor=white)](https://www.microsoft.com/en-ca/microsoft-teams/log-in) | | |
+  | | [![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)](https://slack.com/) | | |
+  | | [![TeamSpeak](https://img.shields.io/badge/TeamSpeak-2580C3?logo=teamspeak&logoColor=white)](https://teamspeak.com/) | | |
+  | | [![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)](https://www.atlassian.com/software/jira) | | |
+  | | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/) | | |
+  | | [![Indeed](https://img.shields.io/badge/Indeed-003A9B?logo=indeed&logoColor=white)](https://indeed.com/) | | |
+  | | [![Glassdoor](https://img.shields.io/badge/Glassdoor-0CAA41?logo=glassdoor&logoColor=white)](https://www.glassdoor.ca/index.htm) | | |
+  | | [![Frontend Mentor](https://img.shields.io/badge/Frontend_Mentor-3F54A3?logo=frontend-mentor&logoColor=white)](https://www.frontendmentor.io/) | | |
+  | | [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/) | | |
+  | | [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/) | | |
+  | | [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white)](https://www.codechef.com/) | | |
+  | | [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=white)](https://codeforces.com/) | | |
+  | | [![Codewars](https://img.shields.io/badge/Codewars-B1361E?logo=codewars&logoColor=white)](https://www.codewars.com/) | | |
+  | | [![VirusTotal](https://img.shields.io/badge/VirusTotal-white?logo=virustotal&logoColor=blue)](https://www.virustotal.com/gui/home/upload/) | | |
+  | | [![Simple Icons](https://img.shields.io/badge/Simple_Icons-111111?logo=simple-icons&logoColor=white)](https://simpleicons.org/) | | |
   | | | | |
-  | | | | |
-  
+
 </details>
 
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-
-[![Less](https://img.shields.io/badge/Less-1D365D?logo=less&logoColor=white)](https://lesscss.org/)
-[![JSON](https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white)](https://www.json.org/)
-
-
-[![Simple Icons](https://img.shields.io/badge/Simple_Icons-111111?logo=simple-icons&logoColor=white)](https://simpleicons.org/)
-[![Google Fonts](https://img.shields.io/badge/Google_Fonts-4285F4?logo=google-fonts&logoColor=white)](https://fonts.google.com/)
-[![Animate on Scroll](https://img.shields.io/badge/Animate_On_Scroll-3F51B5?logo=github&logoColor=white)](https://michalsnik.github.io/aos/)
-[![Line Awesome](https://img.shields.io/badge/Line_Awesome-1FB141?logo=icons8&logoColor=white)](https://icons8.com/line-awesome)
-[![Font Awesome](https://img.shields.io/badge/Font_Awesome-528DD7?logo=font-awesome&logoColor=white)](https://fontawesome.com/)
-  
-[![Google Colab](https://img.shields.io/badge/Google_Collab-F9AB00?logo=google-colab&logoColor=white)](https://colab.research.google.com/)
-[![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white)](https://www.office.com/)
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white)](https://www.codechef.com/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=white)](https://codeforces.com/)
-[![Codewars](https://img.shields.io/badge/Codewars-B1361E?logo=codewars&logoColor=white)](https://www.codewars.com/)
-[![Frontend Mentor](https://img.shields.io/badge/Frontend_Mentor-3F54A3?logo=frontend-mentor&logoColor=white)](https://www.frontendmentor.io/)
-[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)](https://about.gitlab.com/)
-[![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?logo=github-pages&logoColor=white)](https://pages.github.com/)
-[![Pexels](https://img.shields.io/badge/Pexels-05A081?logo=pexels&logoColor=white)](https://www.pexels.com/)
-[![Unsplash](https://img.shields.io/badge/Unsplash-000000?logo=unsplash&logoColor=white)](https://unsplash.com/)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Indeed](https://img.shields.io/badge/Indeed-003A9B?logo=indeed&logoColor=white)](https://indeed.com/)
-[![Glassdoor](https://img.shields.io/badge/Glassdoor-0CAA41?logo=glassdoor&logoColor=white)](https://www.glassdoor.ca/index.htm)
-[![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)](https://slack.com/)
-[![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
-[![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?logo=microsoft-teams&logoColor=white)](https://www.microsoft.com/en-ca/microsoft-teams/log-in)
-[![TeamSpeak](https://img.shields.io/badge/TeamSpeak-2580C3?logo=teamspeak&logoColor=white)](https://teamspeak.com/)
-[![VirusTotal](https://img.shields.io/badge/VirusTotal-white?logo=virustotal&logoColor=blue)](https://www.virustotal.com/gui/home/upload/)
-[![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)](https://www.microsoft.com/en-ca/windows)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://www.linux.org/)
-[![macOS](https://img.shields.io/badge/macOS-000000?logo=macos&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
-[![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?logo=windows-terminal&logoColor=white)](https://www.microsoft.com/store/apps/9n0dx20hk701)
-
-```
-
-                                  ██████╗ ██████╗ ██╗   ██╗ █████╗ ███╗   ██╗    ██╗     ██╗
-                                  ██╔══██╗██╔══██╗╚██╗ ██╔╝██╔══██╗████╗  ██║    ██║     ██║
-                                  ██████╔╝██████╔╝ ╚████╔╝ ███████║██╔██╗ ██║    ██║     ██║
-                                  ██╔══██╗██╔══██╗  ╚██╔╝  ██╔══██║██║╚██╗██║    ██║     ██║
-                                  ██████╔╝██║  ██║   ██║   ██║  ██║██║ ╚████║    ███████╗██║
-                                  ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝    ╚══════╝╚═╝
-                    
-                   Full Stack Web Developer | Recent Graduate | Specialized Honours in Computer Science (BSc)
-```
-
-<!--
-### 📚 Currently Learning / Planning to Learn
-
-[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=.net&logoColor=white)](https://dotnet.microsoft.com/en-us/)
-[![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apache-kafka&logoColor=white)](https://kafka.apache.org/)
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)](https://flutter.dev/)
-[![AngularJS](https://img.shields.io/badge/AngularJS-E23237?logo=angularjs&logoColor=white)](https://angularjs.org/)
-[![VueJS](https://img.shields.io/badge/VueJS-4FC08D?logo=vue.js&logoColor=white)](https://vuejs.org/)
-[![Spring Framework](https://img.shields.io/badge/Spring_Framework-6DB33F?logo=spring&logoColor=white)](https://spring.io/)
-[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)](https://kotlinlang.org/) -->
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=800&size=32&duration=3000&pause=1000&center=true&random=false&width=600&lines=Hi%2C+I'm+Bryan+Li!!!;I'm+a...;Specialized+Honours+Graduate;Aspiring+Full+Stack+Web+Developer" alt="Typing SVG" /></a>
 
 </details>
 
