@@ -41,7 +41,7 @@
 
 <h4>👨‍💻 Web Development</h4>
 
-![skills](https://skillicons.dev/icons?i=html,css,js,sass,react,tailwind,bootstrap,ts,nodejs,nextjs,redux,jquery,vite,vitest,jest,materialui,styledcomponents,regex&theme=dark)
+![skills](https://skillicons.dev/icons?i=html,css,js,sass,react,tailwind,bootstrap,ts,nodejs,nextjs,redux,jquery,angular,vite,vitest,jest,materialui,styledcomponents,regex&theme=dark)
 
 <h4>⚙️ Other / General Purpose Technologies</h4>
 
