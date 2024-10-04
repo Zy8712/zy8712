@@ -55,6 +55,7 @@
 <!-- ============================================================================================================================== -->
 <!-- ============================================================================================================================== -->
 
+<!--
 <details>
   <summary>🔍 Click to View More Details & Additional Technologies</summary>
   <br>
@@ -171,7 +172,7 @@
 </details>
 
 
-</details>
+</details> -->
 
 
 <img src="./assets/saturn-v-space.gif" alt="astronaut_rocket_gif" style="width: 400px;" align="right" >
