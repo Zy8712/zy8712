@@ -179,8 +179,8 @@
 
 ### 🗺️ PLANS & GOALS
 - 🐉 Continue to further develop my React & NextJS skills
-- 🚀 Expand my horizons. Learn new technologies I haven't used before such as: MongoDB, Vue, Svelte, and Angular
-- 🏗️ Build more Frontend projects, eventually building Full-Stack ones
+- 🚀 Expand my horizons. Improve my skills in less used technologies: MongoDB, Vue, Svelte, and Angular
+- 🏗️ Build more Frontend & Full-Stack projects
 - 🧪 Experiment with new libraries & tools
 - 📰 Write interesting/helpful articles on Medium
 - 📊 Practice Data Mining, Data Analytics, Machine Learning & AI development skills
