@@ -21,7 +21,7 @@
 </div>
 
 <details align="center">
-    <summary><sub><sup>MY OTHER SOCIALS</sup></sub></summary>
+    <summary><sub><sup>🌐 MY OTHER SOCIALS</sup></sub></summary>
     
 [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/bryan-li712)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/zy8712)
@@ -225,8 +225,8 @@
 <!-- ============================================================================================================================== -->
 <!-- ============================================================================================================================== -->
 
-<details>
-  <summary> 📊 Extra GitHub Stats </summary>
+<details align="center">
+  <summary>🔍 Extra GitHub Stats 📊</summary>
   <br>
   <div align="center"; style="display: flex; flex-direction: row;">
     <img alt="My Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=zy8712&theme=tokyonight" alt="mystreak"/>
@@ -251,9 +251,9 @@
     -->
   </div>
 </details>
-
-<details>
-  <summary> 📈 Extra LeetCode Stats </summary>
+<br>
+<details align="center">
+  <summary>🔍 Extra LeetCode Stats 📈</summary>
   <br>
   <p align="center">
     <a href="https://leetcode.com/Zy8712/" target="_blank">
