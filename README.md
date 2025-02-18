@@ -175,7 +175,8 @@
 </details> -->
 
 
-<img src="./assets/saturn-v-space.gif" alt="astronaut_rocket_gif" style="width: 400px;" align="right" >
+<!-- <img src="./assets/saturn-v-space.gif" alt="astronaut_rocket_gif" style="width: 400px;" align="right" > -->
+<img src="./assets/charmander-evolution.gif" alt="charmander-evolution.gif" style="width: 400px;" align="right" >
 
 ### 🗺️ PLANS & GOALS
 - 🐉 Continue to further develop my React & NextJS skills
