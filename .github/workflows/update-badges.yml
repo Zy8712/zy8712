@@ -25,4 +25,4 @@ jobs:
           CREDLY_USER: bryan-li712
           CREDLY_SORT: POPULAR
           BADGE_SIZE: 110
-          NUMBER_LAST_BADGES: 24
+          NUMBER_LAST_BADGES: 28

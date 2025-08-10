@@ -1,4 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=24&text=Bryan%20Li&section=header&reversal=false&textBg=false&fontAlign=50&animation=twinkling&desc=Aspiring%20Full-Stack%20Developer%20|%20Recent%20Graduate%20|%20Specialized%20Honours%20in%20Computer%20Science%20(BSc)&fontColor=FFFFFF&fontAlignY=36&descAlignY=60&fontSize=85&descSize=18)
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=24&text=Bryan%20Li&section=header&reversal=false&textBg=false&fontAlign=50&animation=twinkling&desc=Full-Stack%20Developer%20|%20Recent%20Graduate%20|%20Specialized%20Honours%20in%20Computer%20Science%20(BSc)&fontColor=FFFFFF&fontAlignY=36&descAlignY=60&fontSize=85&descSize=18)
+
+
+</div>
 
 <!-- ============================================================================================================================== -->
 <!-- ============================================================================================================================== -->
@@ -27,6 +32,21 @@
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/zy8712)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bryan-li712)
 </details>
+
+<br>
+<br>
+
+<div align="center">
+    <a href="https://www.credly.com/badges/c7d7c4aa-5ce8-425a-82ce-c6ee7dd0a845" target="_blank">
+      <img src="./assets/amplitude-foundations-analytics.png" width="180px"/>
+    </a>
+    <a href="https://skillshop.credential.net/09316729-8cbb-4e32-82ef-512e3dd3bfe9#acc.onILFHw3" target="_blank">
+      <img src="./assets/g850dlol_1751783789153.jpg" width="350px" />
+    </a>
+    <a href="https://skillshop.credential.net/09316729-8cbb-4e32-82ef-512e3dd3bfe9#acc.onILFHw3" target="_blank">
+      <img src="./assets/7a4fe3be-f344-4b62-b0e7-482a75d425f9.png" width="180px" />
+    </a>
+</div>
 
 <!-- ============================================================================================================================== -->
 <!-- ============================================================================================================================== -->
@@ -282,4 +302,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zy8712&repo=audiophile-ecommerce-website&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 -->
+<div align="center">
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=24&section=footer&reversal=false&textBg=false&fontAlign=50&animation=twinkling&fontAlignY=36&descAlignY=60&descSize=20)
+
+</div>
