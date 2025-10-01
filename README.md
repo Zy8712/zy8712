@@ -75,56 +75,6 @@
 <!-- ============================================================================================================================== -->
 <!-- ============================================================================================================================== -->
 
-<!--
-
-  <details align="center">
-      <summary>Services, Platforms & Softwares Details & Additional Technologies</summary>
-      <h3 align="left">Services, Platforms & Softwares</h3>
-  
-  | 📷 Icon | 📄 Name | 🗃️ My Experience | 🗂️ Projects Used In | Last Used |
-  | :----: | :----: | :----------: | :------------: | :-----: |
-  | | [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/) | | |
-  | | [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) | | |
-  | | [![Figma](https://img.shields.io/badge/Figma-A259FF?logo=figma&logoColor=white)](https://figma.com) | | |
-  | | [![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)](https://vercel.com/) | | |
-  | | [![SVGl](https://img.shields.io/badge/SVG-FFB13B?logo=svg&logoColor=black)](https://www.w3.org/Graphics/SVG/) | | |
-  | | [![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse-ide&logoColor=white)](https://www.eclipse.org/) | | |
-  | | [![Atom](https://img.shields.io/badge/Atom-66595C?logo=atom&logoColor=white)](https://atom.io/) | | |
-  | | [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/) | | |
-  | | [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](https://github.com/features/actions) | | |
-  | | [![Google Colab](https://img.shields.io/badge/Google_Collab-F9AB00?logo=google-colab&logoColor=white)](https://colab.research.google.com/) | | |
-  | | [![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white)](https://www.office.com/) | | |
-  | | [![Google Fonts](https://img.shields.io/badge/Google_Fonts-4285F4?logo=google-fonts&logoColor=white)](https://fonts.google.com/) | | |
-  | | [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)](https://about.gitlab.com/) | | |
-  | | [![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?logo=github-pages&logoColor=white)](https://pages.github.com/) | | |
-  | | | | |
-  | | [![Unsplash](https://img.shields.io/badge/Unsplash-000000?logo=unsplash&logoColor=white)](https://unsplash.com/) | | |
-  | | [![Pexels](https://img.shields.io/badge/Pexels-05A081?logo=pexels&logoColor=white)](https://www.pexels.com/) | | |
-  | | [![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)](https://www.microsoft.com/en-ca/windows) | | |
-  | | [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://www.linux.org/) | | |
-  | | [![macOS](https://img.shields.io/badge/macOS-000000?logo=macos&logoColor=white)](https://en.wikipedia.org/wiki/MacOS) | | |
-  | | [![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?logo=windows-terminal&logoColor=white)](https://www.microsoft.com/store/apps/9n0dx20hk701) | | |
-  | | [![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?logo=microsoft-teams&logoColor=white)](https://www.microsoft.com/en-ca/microsoft-teams/log-in) | | |
-  | | [![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)](https://slack.com/) | | |
-  | | [![TeamSpeak](https://img.shields.io/badge/TeamSpeak-2580C3?logo=teamspeak&logoColor=white)](https://teamspeak.com/) | | |
-  | | [![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)](https://www.atlassian.com/software/jira) | | |
-  | | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/) | | |
-  | | [![Indeed](https://img.shields.io/badge/Indeed-003A9B?logo=indeed&logoColor=white)](https://indeed.com/) | | |
-  | | [![Glassdoor](https://img.shields.io/badge/Glassdoor-0CAA41?logo=glassdoor&logoColor=white)](https://www.glassdoor.ca/index.htm) | | |
-  | | [![Frontend Mentor](https://img.shields.io/badge/Frontend_Mentor-3F54A3?logo=frontend-mentor&logoColor=white)](https://www.frontendmentor.io/) | | |
-  | | [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/) | | |
-  | | [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/) | | |
-  | | [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white)](https://www.codechef.com/) | | |
-  | | [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=white)](https://codeforces.com/) | | |
-  | | [![Codewars](https://img.shields.io/badge/Codewars-B1361E?logo=codewars&logoColor=white)](https://www.codewars.com/) | | |
-  | | [![VirusTotal](https://img.shields.io/badge/VirusTotal-white?logo=virustotal&logoColor=blue)](https://www.virustotal.com/gui/home/upload/) | | |
-  | | [![Simple Icons](https://img.shields.io/badge/Simple_Icons-111111?logo=simple-icons&logoColor=white)](https://simpleicons.org/) | | |
-  | | | | |
-
-</details>
-
-
-</details> -->
 
 
 <!-- <img src="./assets/saturn-v-space.gif" alt="astronaut_rocket_gif" style="width: 400px;" align="right" > -->
