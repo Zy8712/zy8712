@@ -65,11 +65,11 @@
 
 <h4>⚙️ Other / General Purpose Technologies</h4>
 
-![skills](https://skillicons.dev/icons?i=java,py,c,cpp,md,fortran,matlab,androidstudio,mysql,postgres,php,bash,powershell&theme=dark)
+![skills](https://skillicons.dev/icons?i=java,py,c,cpp,md,fortran,matlab,mysql,postgres,php,bash,powershell&theme=dark)
 
 <h4>🖥️ Services, Platforms & Softwares</h4>
 
-![skills](https://skillicons.dev/icons?i=github,vscode,figma,vercel,svg,eclipse,atom,git,githubactions,gitlab,netlify,linux&theme=dark)
+![skills](https://skillicons.dev/icons?i=github,vscode,figma,vercel,svg,eclipse,atom,git,githubactions,gitlab,androidstudio,netlify,linux&theme=dark)
 
 <!-- ============================================================================================================================== -->
 <!-- ============================================================================================================================== -->
