@@ -69,7 +69,7 @@
 
 <h4>🖥️ Services, Platforms & Softwares</h4>
 
-![skills](https://skillicons.dev/icons?i=github,vscode,figma,vercel,svg,eclipse,atom,git,githubactions,gitlab,androidstudio,netlify,linux&theme=dark)
+![skills](https://skillicons.dev/icons?i=github,vscode,figma,vercel,svg,eclipse,atom,git,githubactions,gitlab,androidstudio,docker,netlify,linux&theme=dark)
 
 <!-- ============================================================================================================================== -->
 <!-- ============================================================================================================================== -->
