@@ -76,43 +76,7 @@
 <!-- ============================================================================================================================== -->
 
 <!--
-<details>
-  <summary>🔍 Click to View More Details & Additional Technologies</summary>
-  <br>
-  <details align="center">
-      <summary>Web Development Details & Additional Technologies</summary>
-      <h3 align="left">Web Development</h3>
-  
-  | 📷 Icon | 📄 Name | 🗃️ My Experience | 🗂️ Projects Used In | Last Used |
-  | :----: | :----: | :----------: | :------------: | :-----: |
-  | ![html](https://skillicons.dev/icons?i=html&theme=dark) | [![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://html.com/) | 6+ Years | |
-  | ![css](https://skillicons.dev/icons?i=css&theme=dark) | [![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html) | 5+ Years | |
-  | ![javascript](https://skillicons.dev/icons?i=js&theme=dark) | [![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=yellow)](https://www.javascript.com/) | 4+ Years | |
-  | ![sass](https://skillicons.dev/icons?i=sass&theme=dark) | [![Sass](https://img.shields.io/badge/Sass/Scss-CC6699?logo=sass&logoColor=white)](https://sass-lang.com/) | 1+ Years | |
-  | ![react](https://skillicons.dev/icons?i=react&theme=dark) | [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)](https://reactjs.org/) | 1+ Years | |
-  | ![tailwind](https://skillicons.dev/icons?i=tailwind&theme=dark) | [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) | 1+ Years | |
-  | ![bootstrap](https://skillicons.dev/icons?i=bootstrap&theme=dark) | [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)](https://getbootstrap.com/) | 1+ Years | |
-  | ![typescript](https://skillicons.dev/icons?i=ts&theme=dark) | [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/) | < 1 Year | |
-  | ![nodejs](https://skillicons.dev/icons?i=nodejs&theme=dark) | [![Node JS](https://img.shields.io/badge/Node_JS-339933?logo=node.js&logoColor=white)](https://nodejs.org/en/) | 1+ Years | |
-  | ![nextjs](https://skillicons.dev/icons?i=nextjs&theme=dark) | [![NextJS](https://img.shields.io/badge/Next_JS-black?logo=next.js&logoColor=white)](https://nextjs.org/) | | |
-  | ![redux](https://skillicons.dev/icons?i=redux&theme=dark) | [![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)](https://redux.js.org/) | | |
-  | ![jquery](https://skillicons.dev/icons?i=jquery&theme=dark) | [![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)](https://jquery.com/) | | |
-  | ![vite](https://skillicons.dev/icons?i=vite&theme=dark) | [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/) | 1+ Years | |
-  | ![vitest](https://skillicons.dev/icons?i=vitest&theme=dark) | [![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white)](https://vitest.dev/) | < 1 Year | |
-  | ![jest](https://skillicons.dev/icons?i=jest&theme=dark) | [![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)](https://jestjs.io/) | < 1 Year | |
-  | ![materialui](https://skillicons.dev/icons?i=materialui&theme=dark) | [![MaterialUI](https://img.shields.io/badge/Material_UI-007FFF?logo=mui&logoColor=white)](https://mui.com/) | < 1 Year | |
-  | ![styledcomponents](https://skillicons.dev/icons?i=styledcomponents&theme=dark) | [![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?logo=styledcomponents&logoColor=white)](https://www.styled-components.com/) | < 1 Year | |
-  | ![regex](https://skillicons.dev/icons?i=regex&theme=dark) | [![Regular Expressions](https://img.shields.io/badge/Regex-3366cc?logo=regex&logoColor=white)](https://regexr.com/) | 3+ Years | |
-  | | [![Less](https://img.shields.io/badge/Less-1D365D?logo=less&logoColor=white)](https://lesscss.org/) | | |
-  | | [![Animate on Scroll](https://img.shields.io/badge/Animate_On_Scroll-3F51B5?logo=github&logoColor=white)](https://michalsnik.github.io/aos/) | | |
-  | | [![Line Awesome](https://img.shields.io/badge/Line_Awesome-1FB141?logo=icons8&logoColor=white)](https://icons8.com/line-awesome) | | |
-  | | [![Font Awesome](https://img.shields.io/badge/Font_Awesome-528DD7?logo=font-awesome&logoColor=white)](https://fontawesome.com/) | | |
-  | | | | |
-  | | [![VueJS](https://img.shields.io/badge/VueJS-4FC08D?logo=vue.js&logoColor=white)](https://vuejs.org/) | | |
-  | | [![AngularJS](https://img.shields.io/badge/AngularJS-E23237?logo=angularjs&logoColor=white)](https://angularjs.org/) | | |
 
-
-  </details>    
 
   <details align="center">
       <summary>General Purpose Tech Details & Additional Technologies</summary>
