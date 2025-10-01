@@ -77,38 +77,6 @@
 
 <!--
 
-
-  <details align="center">
-      <summary>General Purpose Tech Details & Additional Technologies</summary>
-      <h3 align="left">Other / General Purpose Technologies</h3>
-  
-  | 📷 Icon | 📄 Name | 🗃️ My Experience | 🗂️ Projects Used In | Last Used |
-  | :----: | :----: | :----------: | :------------: | :-----: |
-  | ![java](https://skillicons.dev/icons?i=java&theme=dark) | [![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)](https://www.java.com/) | 4+ Years | |
-  | ![python](https://skillicons.dev/icons?i=python&theme=dark) | [![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)](https://www.python.org/) | 3+ Years | |
-  | ![c](https://skillicons.dev/icons?i=c&theme=dark) | [![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language)) | 1+ Years | |
-  | ![c++](https://skillicons.dev/icons?i=cpp&theme=dark) | [![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B) | 1+ Years | |
-  | ![markdown](https://skillicons.dev/icons?i=md&theme=dark) | [![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)](https://en.wikipedia.org/wiki/Markdown) | 1+ Years | |
-  | ![fortran](https://skillicons.dev/icons?i=fortran&theme=dark) | [![Fortran](https://img.shields.io/badge/Fortran-white?logo=fortran&logoColor=734f96)](https://fortran-lang.org/) | 1+ Years | |
-  | ![matlab](https://skillicons.dev/icons?i=matlab&theme=dark) | [![MatLab](https://img.shields.io/badge/MatLab-8B4000?logo=assembly&logoColor=white)](https://www.mathworks.com/products/matlab.html) | 1 Year | |
-  | ![android studio](https://skillicons.dev/icons?i=androidstudio&theme=dark) | [![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?logo=android-studio&logoColor=white)](https://developer.android.com/studio) | 1 Year | |
-  | ![mysql](https://skillicons.dev/icons?i=mysql&theme=dark) | [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/) | 1 Year | |
-  | ![postgres](https://skillicons.dev/icons?i=postgres&theme=dark) | [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org/) | < 1 Year | |
-  | ![php](https://skillicons.dev/icons?i=php&theme=dark) | [![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)](https://www.php.net/) | < 1 Year | |
-  | ![bash](https://skillicons.dev/icons?i=bash&theme=dark) | [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/) | 1 Year | |
-  | ![powershell](https://skillicons.dev/icons?i=powershell&theme=dark) | [![Powershell](https://img.shields.io/badge/Powershell-5391FE?logo=powershell&logoColor=white)](https://learn.microsoft.com/en-us/powershell/) | 1 Year | |
-  | | [![Assembly](https://img.shields.io/badge/Assembly-6E4C13?logo=assembly&logoColor=white)](https://en.wikipedia.org/wiki/Assembly_language) | | |
-  | | [![Verilog](https://img.shields.io/badge/Verilog-00008B?logo=verilog&logoColor=green)](https://en.wikipedia.org/wiki/Verilog) | | |
-  | | [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/) | | |
-  | | [![JSON](https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white)](https://www.json.org/) | | |
-  | | | | |
-  | | | | |
-  | | | | |
-  | | | | |
-  | | | | |
-
-  </details>
-
   <details align="center">
       <summary>Services, Platforms & Softwares Details & Additional Technologies</summary>
       <h3 align="left">Services, Platforms & Softwares</h3>
